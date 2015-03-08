@@ -75,10 +75,11 @@
     <Compile Include="Load\saveToAzureStorage.cs" />
     <Compile Include="Load\saveToLocal.cs" />
     <Compile Include="Load\sendToAzureServiceBus.cs" />
-    <Compile Include="Process\toStructList.cs" />
+    <Compile Include="Process\DTO\TRANSMITLinkConditions.cs" />
+    <Compile Include="Process\toDTO.cs" />
     <Compile Include="Process\toJSON.cs" />
-    <Compile Include="Process\toStringList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="utility.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
