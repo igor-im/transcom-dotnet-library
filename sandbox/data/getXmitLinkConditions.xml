@@ -1,0 +1,5986 @@
+<ns:getDataResponse xmlns:ns="http://data.xcmdata.org">
+<return>
+<dataResponse>
+  <linkConditions LinkSetID="Raw" MsgType="FULL" SchemaVersion="1.0" SourceSetID="Transmit" Timestamp="2015-03-06T15:26:58-05:00" Units="Metric" StatusId="0" StatusText="OK">
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616439</ID>
+			<DataType>Averaged</DataType>
+			<Speed>80</Speed>
+			<TravelTime>107</TravelTime>
+			<TravelTimeFloat>107.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361734</ID>
+			<DataType>Averaged</DataType>
+			<Speed>47</Speed>
+			<TravelTime>288</TravelTime>
+			<TravelTimeFloat>288.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575368</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>192</TravelTime>
+			<TravelTimeFloat>192.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616246</ID>
+			<DataType>Averaged</DataType>
+			<Speed>11</Speed>
+			<TravelTime>502</TravelTime>
+			<TravelTimeFloat>502.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616223</ID>
+			<DataType>Averaged</DataType>
+			<Speed>8</Speed>
+			<TravelTime>690</TravelTime>
+			<TravelTimeFloat>690.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575379</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>529</TravelTime>
+			<TravelTimeFloat>529.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616352</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>195</TravelTime>
+			<TravelTimeFloat>195.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484203</ID>
+			<DataType>Averaged</DataType>
+			<Speed>87</Speed>
+			<TravelTime>59</TravelTime>
+			<TravelTimeFloat>59.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:48-05:00">
+			<ID>4575426</ID>
+			<DataType>Averaged</DataType>
+			<Speed>117</Speed>
+			<TravelTime>183</TravelTime>
+			<TravelTimeFloat>183.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419028</ID>
+			<DataType>Averaged</DataType>
+			<Speed>102</Speed>
+			<TravelTime>13</TravelTime>
+			<TravelTimeFloat>13.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484191</ID>
+			<DataType>Averaged</DataType>
+			<Speed>95</Speed>
+			<TravelTime>110</TravelTime>
+			<TravelTimeFloat>110.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616302</ID>
+			<DataType>Averaged</DataType>
+			<Speed>50</Speed>
+			<TravelTime>50</TravelTime>
+			<TravelTimeFloat>50.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361701</ID>
+			<DataType>Averaged</DataType>
+			<Speed>56</Speed>
+			<TravelTime>131</TravelTime>
+			<TravelTimeFloat>131.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361703</ID>
+			<DataType>Averaged</DataType>
+			<Speed>69</Speed>
+			<TravelTime>279</TravelTime>
+			<TravelTimeFloat>279.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362318</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>228</TravelTime>
+			<TravelTimeFloat>228.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484205</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>110</TravelTime>
+			<TravelTimeFloat>110.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575380</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>491</TravelTime>
+			<TravelTimeFloat>491.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616408</ID>
+			<DataType>Averaged</DataType>
+			<Speed>37</Speed>
+			<TravelTime>113</TravelTime>
+			<TravelTimeFloat>113.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575407</ID>
+			<DataType>Averaged</DataType>
+			<Speed>119</Speed>
+			<TravelTime>90</TravelTime>
+			<TravelTimeFloat>90.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616319</ID>
+			<DataType>Averaged</DataType>
+			<Speed>51</Speed>
+			<TravelTime>387</TravelTime>
+			<TravelTimeFloat>387.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456476</ID>
+			<DataType>Averaged</DataType>
+			<Speed>56</Speed>
+			<TravelTime>229</TravelTime>
+			<TravelTimeFloat>229.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419026</ID>
+			<DataType>Averaged</DataType>
+			<Speed>90</Speed>
+			<TravelTime>90</TravelTime>
+			<TravelTimeFloat>90.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361773</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>73</TravelTime>
+			<TravelTimeFloat>73.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362342</ID>
+			<DataType>Averaged</DataType>
+			<Speed>26</Speed>
+			<TravelTime>304</TravelTime>
+			<TravelTimeFloat>304.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616267</ID>
+			<DataType>Averaged</DataType>
+			<Speed>6</Speed>
+			<TravelTime>552</TravelTime>
+			<TravelTimeFloat>552.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362255</ID>
+			<DataType>Averaged</DataType>
+			<Speed>98</Speed>
+			<TravelTime>207</TravelTime>
+			<TravelTimeFloat>207.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362322</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>219</TravelTime>
+			<TravelTimeFloat>219.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616210</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>138</TravelTime>
+			<TravelTimeFloat>138.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362389</ID>
+			<DataType>Averaged</DataType>
+			<Speed>77</Speed>
+			<TravelTime>185</TravelTime>
+			<TravelTimeFloat>185.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362370</ID>
+			<DataType>Averaged</DataType>
+			<Speed>48</Speed>
+			<TravelTime>165</TravelTime>
+			<TravelTimeFloat>165.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362281</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>194</TravelTime>
+			<TravelTimeFloat>194.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575385</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>808</TravelTime>
+			<TravelTimeFloat>808.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362332</ID>
+			<DataType>Averaged</DataType>
+			<Speed>56</Speed>
+			<TravelTime>217</TravelTime>
+			<TravelTimeFloat>217.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362320</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>185</TravelTime>
+			<TravelTimeFloat>185.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616224</ID>
+			<DataType>Averaged</DataType>
+			<Speed>14</Speed>
+			<TravelTime>781</TravelTime>
+			<TravelTimeFloat>781.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575404</ID>
+			<DataType>Averaged</DataType>
+			<Speed>50</Speed>
+			<TravelTime>54</TravelTime>
+			<TravelTimeFloat>54.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575240</ID>
+			<DataType>Averaged</DataType>
+			<Speed>90</Speed>
+			<TravelTime>79</TravelTime>
+			<TravelTimeFloat>79.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:14:31-05:00">
+			<ID>90002535</ID>
+			<DataType>Averaged</DataType>
+			<Speed>40</Speed>
+			<TravelTime>474</TravelTime>
+			<TravelTimeFloat>474.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575359</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>119</TravelTime>
+			<TravelTimeFloat>119.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620303</ID>
+			<DataType>Averaged</DataType>
+			<Speed>45</Speed>
+			<TravelTime>163</TravelTime>
+			<TravelTimeFloat>163.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362378</ID>
+			<DataType>Averaged</DataType>
+			<Speed>47</Speed>
+			<TravelTime>418</TravelTime>
+			<TravelTimeFloat>418.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362244</ID>
+			<DataType>Averaged</DataType>
+			<Speed>84</Speed>
+			<TravelTime>209</TravelTime>
+			<TravelTimeFloat>209.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362368</ID>
+			<DataType>Averaged</DataType>
+			<Speed>48</Speed>
+			<TravelTime>369</TravelTime>
+			<TravelTimeFloat>369.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362264</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>219</TravelTime>
+			<TravelTimeFloat>219.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362262</ID>
+			<DataType>Averaged</DataType>
+			<Speed>55</Speed>
+			<TravelTime>424</TravelTime>
+			<TravelTimeFloat>424.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575326</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>1262</TravelTime>
+			<TravelTimeFloat>1262.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575266</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>125</TravelTime>
+			<TravelTimeFloat>125.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362364</ID>
+			<DataType>Averaged</DataType>
+			<Speed>74</Speed>
+			<TravelTime>170</TravelTime>
+			<TravelTimeFloat>170.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616213</ID>
+			<DataType>Averaged</DataType>
+			<Speed>98</Speed>
+			<TravelTime>129</TravelTime>
+			<TravelTimeFloat>129.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362361</ID>
+			<DataType>Averaged</DataType>
+			<Speed>56</Speed>
+			<TravelTime>294</TravelTime>
+			<TravelTimeFloat>294.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419038</ID>
+			<DataType>Averaged</DataType>
+			<Speed>124</Speed>
+			<TravelTime>30</TravelTime>
+			<TravelTimeFloat>30.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362365</ID>
+			<DataType>Averaged</DataType>
+			<Speed>66</Speed>
+			<TravelTime>330</TravelTime>
+			<TravelTimeFloat>330.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362349</ID>
+			<DataType>Averaged</DataType>
+			<Speed>40</Speed>
+			<TravelTime>294</TravelTime>
+			<TravelTimeFloat>294.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419059</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>13</TravelTime>
+			<TravelTimeFloat>13.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484222</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>128</TravelTime>
+			<TravelTimeFloat>128.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:16-05:00">
+			<ID>20</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>167</TravelTime>
+			<TravelTimeFloat>167.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620320</ID>
+			<DataType>Averaged</DataType>
+			<Speed>58</Speed>
+			<TravelTime>328</TravelTime>
+			<TravelTimeFloat>328.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575251</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>86</TravelTime>
+			<TravelTimeFloat>86.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616365</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>1060</TravelTime>
+			<TravelTimeFloat>1060.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:36-05:00">
+			<ID>25</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>157</TravelTime>
+			<TravelTimeFloat>157.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575398</ID>
+			<DataType>Averaged</DataType>
+			<Speed>98</Speed>
+			<TravelTime>56</TravelTime>
+			<TravelTimeFloat>56.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616433</ID>
+			<DataType>Averaged</DataType>
+			<Speed>6</Speed>
+			<TravelTime>623</TravelTime>
+			<TravelTimeFloat>623.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362384</ID>
+			<DataType>Averaged</DataType>
+			<Speed>29</Speed>
+			<TravelTime>484</TravelTime>
+			<TravelTimeFloat>484.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:57-05:00">
+			<ID>90002317</ID>
+			<DataType>Averaged</DataType>
+			<Speed>10</Speed>
+			<TravelTime>225</TravelTime>
+			<TravelTimeFloat>225.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620331</ID>
+			<DataType>Averaged</DataType>
+			<Speed>14</Speed>
+			<TravelTime>453</TravelTime>
+			<TravelTimeFloat>453.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362330</ID>
+			<DataType>Averaged</DataType>
+			<Speed>64</Speed>
+			<TravelTime>543</TravelTime>
+			<TravelTimeFloat>543.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:14:16-05:00">
+			<ID>26</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>180</TravelTime>
+			<TravelTimeFloat>180.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419053</ID>
+			<DataType>Averaged</DataType>
+			<Speed>58</Speed>
+			<TravelTime>59</TravelTime>
+			<TravelTimeFloat>59.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575232</ID>
+			<DataType>Averaged</DataType>
+			<Speed>76</Speed>
+			<TravelTime>94</TravelTime>
+			<TravelTimeFloat>94.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484230</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>137</TravelTime>
+			<TravelTimeFloat>137.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362257</ID>
+			<DataType>Averaged</DataType>
+			<Speed>85</Speed>
+			<TravelTime>141</TravelTime>
+			<TravelTimeFloat>141.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575236</ID>
+			<DataType>Averaged</DataType>
+			<Speed>37</Speed>
+			<TravelTime>230</TravelTime>
+			<TravelTimeFloat>230.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419046</ID>
+			<DataType>Averaged</DataType>
+			<Speed>26</Speed>
+			<TravelTime>191</TravelTime>
+			<TravelTimeFloat>191.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419062</ID>
+			<DataType>Averaged</DataType>
+			<Speed>110</Speed>
+			<TravelTime>48</TravelTime>
+			<TravelTimeFloat>48.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362259</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>124</TravelTime>
+			<TravelTimeFloat>124.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329527</ID>
+			<DataType>Averaged</DataType>
+			<Speed>77</Speed>
+			<TravelTime>59</TravelTime>
+			<TravelTimeFloat>59.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362269</ID>
+			<DataType>Averaged</DataType>
+			<Speed>45</Speed>
+			<TravelTime>382</TravelTime>
+			<TravelTimeFloat>382.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456499</ID>
+			<DataType>Averaged</DataType>
+			<Speed>72</Speed>
+			<TravelTime>200</TravelTime>
+			<TravelTimeFloat>200.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419063</ID>
+			<DataType>Averaged</DataType>
+			<Speed>64</Speed>
+			<TravelTime>164</TravelTime>
+			<TravelTimeFloat>164.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484219</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>135</TravelTime>
+			<TravelTimeFloat>135.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616250</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>68</TravelTime>
+			<TravelTimeFloat>68.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419012</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>95</TravelTime>
+			<TravelTimeFloat>95.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616427</ID>
+			<DataType>Averaged</DataType>
+			<Speed>32</Speed>
+			<TravelTime>141</TravelTime>
+			<TravelTimeFloat>141.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616217</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>190</TravelTime>
+			<TravelTimeFloat>190.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:19-05:00">
+			<ID>5361779</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>125</TravelTime>
+			<TravelTimeFloat>125.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456496</ID>
+			<DataType>Averaged</DataType>
+			<Speed>71</Speed>
+			<TravelTime>105</TravelTime>
+			<TravelTimeFloat>105.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:12:10-05:00">
+			<ID>90001956</ID>
+			<DataType>Averaged</DataType>
+			<Speed>4</Speed>
+			<TravelTime>235</TravelTime>
+			<TravelTimeFloat>235.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484163</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>341</TravelTime>
+			<TravelTimeFloat>341.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575281</ID>
+			<DataType>Averaged</DataType>
+			<Speed>89</Speed>
+			<TravelTime>167</TravelTime>
+			<TravelTimeFloat>167.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484198</ID>
+			<DataType>Averaged</DataType>
+			<Speed>72</Speed>
+			<TravelTime>151</TravelTime>
+			<TravelTimeFloat>151.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616390</ID>
+			<DataType>Averaged</DataType>
+			<Speed>43</Speed>
+			<TravelTime>364</TravelTime>
+			<TravelTimeFloat>364.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616196</ID>
+			<DataType>Averaged</DataType>
+			<Speed>47</Speed>
+			<TravelTime>284</TravelTime>
+			<TravelTimeFloat>284.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:10-05:00">
+			<ID>27</ID>
+			<DataType>Averaged</DataType>
+			<Speed>124</Speed>
+			<TravelTime>145</TravelTime>
+			<TravelTimeFloat>145.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419023</ID>
+			<DataType>Averaged</DataType>
+			<Speed>74</Speed>
+			<TravelTime>33</TravelTime>
+			<TravelTimeFloat>33.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484126</ID>
+			<DataType>Averaged</DataType>
+			<Speed>89</Speed>
+			<TravelTime>97</TravelTime>
+			<TravelTimeFloat>97.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616204</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>205</TravelTime>
+			<TravelTimeFloat>205.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329525</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>150</TravelTime>
+			<TravelTimeFloat>150.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620326</ID>
+			<DataType>Averaged</DataType>
+			<Speed>58</Speed>
+			<TravelTime>292</TravelTime>
+			<TravelTimeFloat>292.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456501</ID>
+			<DataType>Averaged</DataType>
+			<Speed>56</Speed>
+			<TravelTime>184</TravelTime>
+			<TravelTimeFloat>184.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616437</ID>
+			<DataType>Averaged</DataType>
+			<Speed>82</Speed>
+			<TravelTime>83</TravelTime>
+			<TravelTimeFloat>83.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329503</ID>
+			<DataType>Averaged</DataType>
+			<Speed>10</Speed>
+			<TravelTime>221</TravelTime>
+			<TravelTimeFloat>221.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419010</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>63</TravelTime>
+			<TravelTimeFloat>63.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:16:24-05:00">
+			<ID>90003425</ID>
+			<DataType>Averaged</DataType>
+			<Speed>41</Speed>
+			<TravelTime>527</TravelTime>
+			<TravelTimeFloat>527.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616407</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>296</TravelTime>
+			<TravelTimeFloat>296.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:19-05:00">
+			<ID>5361780</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>74</TravelTime>
+			<TravelTimeFloat>74.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616206</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>340</TravelTime>
+			<TravelTimeFloat>340.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362245</ID>
+			<DataType>Averaged</DataType>
+			<Speed>72</Speed>
+			<TravelTime>47</TravelTime>
+			<TravelTimeFloat>47.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362363</ID>
+			<DataType>Averaged</DataType>
+			<Speed>53</Speed>
+			<TravelTime>156</TravelTime>
+			<TravelTimeFloat>156.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419032</ID>
+			<DataType>Averaged</DataType>
+			<Speed>86</Speed>
+			<TravelTime>66</TravelTime>
+			<TravelTimeFloat>66.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4763657</ID>
+			<DataType>Averaged</DataType>
+			<Speed>68</Speed>
+			<TravelTime>41</TravelTime>
+			<TravelTimeFloat>41.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616351</ID>
+			<DataType>Averaged</DataType>
+			<Speed>82</Speed>
+			<TravelTime>215</TravelTime>
+			<TravelTimeFloat>215.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616310</ID>
+			<DataType>Averaged</DataType>
+			<Speed>11</Speed>
+			<TravelTime>551</TravelTime>
+			<TravelTimeFloat>551.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616193</ID>
+			<DataType>Averaged</DataType>
+			<Speed>48</Speed>
+			<TravelTime>215</TravelTime>
+			<TravelTimeFloat>215.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620351</ID>
+			<DataType>Averaged</DataType>
+			<Speed>95</Speed>
+			<TravelTime>176</TravelTime>
+			<TravelTimeFloat>176.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575289</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>188</TravelTime>
+			<TravelTimeFloat>188.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616348</ID>
+			<DataType>Averaged</DataType>
+			<Speed>39</Speed>
+			<TravelTime>159</TravelTime>
+			<TravelTimeFloat>159.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616226</ID>
+			<DataType>Averaged</DataType>
+			<Speed>72</Speed>
+			<TravelTime>95</TravelTime>
+			<TravelTimeFloat>95.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484201</ID>
+			<DataType>Averaged</DataType>
+			<Speed>95</Speed>
+			<TravelTime>61</TravelTime>
+			<TravelTimeFloat>61.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616281</ID>
+			<DataType>Averaged</DataType>
+			<Speed>89</Speed>
+			<TravelTime>139</TravelTime>
+			<TravelTimeFloat>139.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484160</ID>
+			<DataType>Averaged</DataType>
+			<Speed>80</Speed>
+			<TravelTime>344</TravelTime>
+			<TravelTimeFloat>344.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484125</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>157</TravelTime>
+			<TravelTimeFloat>157.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:18:47-05:00">
+			<ID>11</ID>
+			<DataType>Averaged</DataType>
+			<Speed>121</Speed>
+			<TravelTime>91</TravelTime>
+			<TravelTimeFloat>91.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620316</ID>
+			<DataType>Averaged</DataType>
+			<Speed>43</Speed>
+			<TravelTime>308</TravelTime>
+			<TravelTimeFloat>308.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362288</ID>
+			<DataType>Averaged</DataType>
+			<Speed>64</Speed>
+			<TravelTime>370</TravelTime>
+			<TravelTimeFloat>370.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362251</ID>
+			<DataType>Averaged</DataType>
+			<Speed>35</Speed>
+			<TravelTime>424</TravelTime>
+			<TravelTimeFloat>424.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484098</ID>
+			<DataType>Averaged</DataType>
+			<Speed>84</Speed>
+			<TravelTime>340</TravelTime>
+			<TravelTimeFloat>340.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575328</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>729</TravelTime>
+			<TravelTimeFloat>729.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616272</ID>
+			<DataType>Averaged</DataType>
+			<Speed>42</Speed>
+			<TravelTime>265</TravelTime>
+			<TravelTimeFloat>265.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:13:31-05:00">
+			<ID>90000442</ID>
+			<DataType>Averaged</DataType>
+			<Speed>9</Speed>
+			<TravelTime>87</TravelTime>
+			<TravelTimeFloat>87.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362367</ID>
+			<DataType>Averaged</DataType>
+			<Speed>58</Speed>
+			<TravelTime>302</TravelTime>
+			<TravelTimeFloat>302.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362353</ID>
+			<DataType>Averaged</DataType>
+			<Speed>58</Speed>
+			<TravelTime>196</TravelTime>
+			<TravelTimeFloat>196.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620298</ID>
+			<DataType>Averaged</DataType>
+			<Speed>55</Speed>
+			<TravelTime>218</TravelTime>
+			<TravelTimeFloat>218.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616473</ID>
+			<DataType>Averaged</DataType>
+			<Speed>61</Speed>
+			<TravelTime>198</TravelTime>
+			<TravelTimeFloat>198.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616379</ID>
+			<DataType>Averaged</DataType>
+			<Speed>29</Speed>
+			<TravelTime>190</TravelTime>
+			<TravelTimeFloat>190.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:18:34-05:00">
+			<ID>90004723</ID>
+			<DataType>Averaged</DataType>
+			<Speed>5</Speed>
+			<TravelTime>665</TravelTime>
+			<TravelTimeFloat>665.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620348</ID>
+			<DataType>Averaged</DataType>
+			<Speed>101</Speed>
+			<TravelTime>305</TravelTime>
+			<TravelTimeFloat>305.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:19-05:00">
+			<ID>5361775</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>137</TravelTime>
+			<TravelTimeFloat>137.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362343</ID>
+			<DataType>Averaged</DataType>
+			<Speed>45</Speed>
+			<TravelTime>210</TravelTime>
+			<TravelTimeFloat>210.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361760</ID>
+			<DataType>Averaged</DataType>
+			<Speed>53</Speed>
+			<TravelTime>397</TravelTime>
+			<TravelTimeFloat>397.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329492</ID>
+			<DataType>Averaged</DataType>
+			<Speed>53</Speed>
+			<TravelTime>91</TravelTime>
+			<TravelTimeFloat>91.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:15:27-05:00">
+			<ID>90001714</ID>
+			<DataType>Averaged</DataType>
+			<Speed>8</Speed>
+			<TravelTime>136</TravelTime>
+			<TravelTimeFloat>136.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616203</ID>
+			<DataType>Averaged</DataType>
+			<Speed>87</Speed>
+			<TravelTime>115</TravelTime>
+			<TravelTimeFloat>115.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419054</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>78</TravelTime>
+			<TravelTimeFloat>78.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575314</ID>
+			<DataType>Averaged</DataType>
+			<Speed>119</Speed>
+			<TravelTime>135</TravelTime>
+			<TravelTimeFloat>135.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484223</ID>
+			<DataType>Averaged</DataType>
+			<Speed>87</Speed>
+			<TravelTime>53</TravelTime>
+			<TravelTimeFloat>53.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616376</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>440</TravelTime>
+			<TravelTimeFloat>440.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575396</ID>
+			<DataType>Averaged</DataType>
+			<Speed>95</Speed>
+			<TravelTime>74</TravelTime>
+			<TravelTimeFloat>74.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419050</ID>
+			<DataType>Averaged</DataType>
+			<Speed>67</Speed>
+			<TravelTime>94</TravelTime>
+			<TravelTimeFloat>94.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575315</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>617</TravelTime>
+			<TravelTimeFloat>617.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575237</ID>
+			<DataType>Averaged</DataType>
+			<Speed>72</Speed>
+			<TravelTime>144</TravelTime>
+			<TravelTimeFloat>144.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362362</ID>
+			<DataType>Averaged</DataType>
+			<Speed>35</Speed>
+			<TravelTime>247</TravelTime>
+			<TravelTimeFloat>247.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:17:30-05:00">
+			<ID>33</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>133</TravelTime>
+			<TravelTimeFloat>133.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329482</ID>
+			<DataType>Averaged</DataType>
+			<Speed>61</Speed>
+			<TravelTime>482</TravelTime>
+			<TravelTimeFloat>482.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:17:41-05:00">
+			<ID>90003428</ID>
+			<DataType>Averaged</DataType>
+			<Speed>51</Speed>
+			<TravelTime>430</TravelTime>
+			<TravelTimeFloat>430.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:13-05:00">
+			<ID>31</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>135</TravelTime>
+			<TravelTimeFloat>135.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419011</ID>
+			<DataType>Averaged</DataType>
+			<Speed>85</Speed>
+			<TravelTime>17</TravelTime>
+			<TravelTimeFloat>17.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419068</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>30</TravelTime>
+			<TravelTimeFloat>30.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616286</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>295</TravelTime>
+			<TravelTimeFloat>295.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616442</ID>
+			<DataType>Averaged</DataType>
+			<Speed>69</Speed>
+			<TravelTime>71</TravelTime>
+			<TravelTimeFloat>71.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419072</ID>
+			<DataType>Averaged</DataType>
+			<Speed>66</Speed>
+			<TravelTime>29</TravelTime>
+			<TravelTimeFloat>29.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456506</ID>
+			<DataType>Averaged</DataType>
+			<Speed>56</Speed>
+			<TravelTime>193</TravelTime>
+			<TravelTimeFloat>193.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456492</ID>
+			<DataType>Averaged</DataType>
+			<Speed>69</Speed>
+			<TravelTime>36</TravelTime>
+			<TravelTimeFloat>36.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419058</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>78</TravelTime>
+			<TravelTimeFloat>78.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362326</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>199</TravelTime>
+			<TravelTimeFloat>199.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:16-05:00">
+			<ID>12</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>111</TravelTime>
+			<TravelTimeFloat>111.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329488</ID>
+			<DataType>Averaged</DataType>
+			<Speed>64</Speed>
+			<TravelTime>54</TravelTime>
+			<TravelTimeFloat>54.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362344</ID>
+			<DataType>Averaged</DataType>
+			<Speed>60</Speed>
+			<TravelTime>192</TravelTime>
+			<TravelTimeFloat>192.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:00-05:00">
+			<ID>10</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>310</TravelTime>
+			<TravelTimeFloat>310.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456510</ID>
+			<DataType>Averaged</DataType>
+			<Speed>39</Speed>
+			<TravelTime>170</TravelTime>
+			<TravelTimeFloat>170.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456511</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>282</TravelTime>
+			<TravelTimeFloat>282.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419036</ID>
+			<DataType>Averaged</DataType>
+			<Speed>80</Speed>
+			<TravelTime>16</TravelTime>
+			<TravelTimeFloat>16.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616451</ID>
+			<DataType>Averaged</DataType>
+			<Speed>29</Speed>
+			<TravelTime>255</TravelTime>
+			<TravelTimeFloat>255.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:23-05:00">
+			<ID>18</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>135</TravelTime>
+			<TravelTimeFloat>135.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616276</ID>
+			<DataType>Averaged</DataType>
+			<Speed>18</Speed>
+			<TravelTime>937</TravelTime>
+			<TravelTimeFloat>937.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361669</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>190</TravelTime>
+			<TravelTimeFloat>190.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575409</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>265</TravelTime>
+			<TravelTimeFloat>265.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616340</ID>
+			<DataType>Averaged</DataType>
+			<Speed>31</Speed>
+			<TravelTime>499</TravelTime>
+			<TravelTimeFloat>499.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362358</ID>
+			<DataType>Averaged</DataType>
+			<Speed>58</Speed>
+			<TravelTime>286</TravelTime>
+			<TravelTimeFloat>286.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616378</ID>
+			<DataType>Averaged</DataType>
+			<Speed>48</Speed>
+			<TravelTime>241</TravelTime>
+			<TravelTimeFloat>241.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616307</ID>
+			<DataType>Averaged</DataType>
+			<Speed>31</Speed>
+			<TravelTime>390</TravelTime>
+			<TravelTimeFloat>390.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419013</ID>
+			<DataType>Averaged</DataType>
+			<Speed>94</Speed>
+			<TravelTime>50</TravelTime>
+			<TravelTimeFloat>50.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620302</ID>
+			<DataType>Averaged</DataType>
+			<Speed>56</Speed>
+			<TravelTime>164</TravelTime>
+			<TravelTimeFloat>164.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456479</ID>
+			<DataType>Averaged</DataType>
+			<Speed>42</Speed>
+			<TravelTime>114</TravelTime>
+			<TravelTimeFloat>114.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:19-05:00">
+			<ID>5361777</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>69</TravelTime>
+			<TravelTimeFloat>69.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575316</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>419</TravelTime>
+			<TravelTimeFloat>419.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456512</ID>
+			<DataType>Averaged</DataType>
+			<Speed>48</Speed>
+			<TravelTime>78</TravelTime>
+			<TravelTimeFloat>78.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484204</ID>
+			<DataType>Averaged</DataType>
+			<Speed>74</Speed>
+			<TravelTime>78</TravelTime>
+			<TravelTimeFloat>78.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:14:55-05:00">
+			<ID>90005506</ID>
+			<DataType>Averaged</DataType>
+			<Speed>4</Speed>
+			<TravelTime>202</TravelTime>
+			<TravelTimeFloat>202.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419009</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>10</TravelTime>
+			<TravelTimeFloat>10.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616416</ID>
+			<DataType>Averaged</DataType>
+			<Speed>53</Speed>
+			<TravelTime>201</TravelTime>
+			<TravelTimeFloat>201.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:18:12-05:00">
+			<ID>90000302</ID>
+			<DataType>Averaged</DataType>
+			<Speed>24</Speed>
+			<TravelTime>93</TravelTime>
+			<TravelTimeFloat>93.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575310</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>395</TravelTime>
+			<TravelTimeFloat>395.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362279</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>286</TravelTime>
+			<TravelTimeFloat>286.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419061</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>35</TravelTime>
+			<TravelTimeFloat>35.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362285</ID>
+			<DataType>Averaged</DataType>
+			<Speed>95</Speed>
+			<TravelTime>216</TravelTime>
+			<TravelTimeFloat>216.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575344</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>127</TravelTime>
+			<TravelTimeFloat>127.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362258</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>123</TravelTime>
+			<TravelTimeFloat>123.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575419</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>186</TravelTime>
+			<TravelTimeFloat>186.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362304</ID>
+			<DataType>Averaged</DataType>
+			<Speed>95</Speed>
+			<TravelTime>160</TravelTime>
+			<TravelTimeFloat>160.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361728</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>116</TravelTime>
+			<TravelTimeFloat>116.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:22:53-05:00">
+			<ID>90000811</ID>
+			<DataType>Averaged</DataType>
+			<Speed>6</Speed>
+			<TravelTime>390</TravelTime>
+			<TravelTimeFloat>390.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616313</ID>
+			<DataType>Averaged</DataType>
+			<Speed>26</Speed>
+			<TravelTime>206</TravelTime>
+			<TravelTimeFloat>206.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:48-05:00">
+			<ID>4575429</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>94</TravelTime>
+			<TravelTimeFloat>94.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616417</ID>
+			<DataType>Averaged</DataType>
+			<Speed>79</Speed>
+			<TravelTime>82</TravelTime>
+			<TravelTimeFloat>82.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616395</ID>
+			<DataType>Averaged</DataType>
+			<Speed>24</Speed>
+			<TravelTime>366</TravelTime>
+			<TravelTimeFloat>366.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575245</ID>
+			<DataType>Averaged</DataType>
+			<Speed>101</Speed>
+			<TravelTime>96</TravelTime>
+			<TravelTimeFloat>96.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:14:28-05:00">
+			<ID>90001112</ID>
+			<DataType>Averaged</DataType>
+			<Speed>16</Speed>
+			<TravelTime>121</TravelTime>
+			<TravelTimeFloat>121.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362275</ID>
+			<DataType>Averaged</DataType>
+			<Speed>53</Speed>
+			<TravelTime>351</TravelTime>
+			<TravelTimeFloat>351.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616406</ID>
+			<DataType>Averaged</DataType>
+			<Speed>48</Speed>
+			<TravelTime>110</TravelTime>
+			<TravelTimeFloat>110.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:48-05:00">
+			<ID>4575432</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>164</TravelTime>
+			<TravelTimeFloat>164.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484099</ID>
+			<DataType>Averaged</DataType>
+			<Speed>90</Speed>
+			<TravelTime>153</TravelTime>
+			<TravelTimeFloat>153.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616199</ID>
+			<DataType>Averaged</DataType>
+			<Speed>39</Speed>
+			<TravelTime>282</TravelTime>
+			<TravelTimeFloat>282.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:18:21-05:00">
+			<ID>90003324</ID>
+			<DataType>Averaged</DataType>
+			<Speed>53</Speed>
+			<TravelTime>351</TravelTime>
+			<TravelTimeFloat>351.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361771</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>129</TravelTime>
+			<TravelTimeFloat>129.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484221</ID>
+			<DataType>Averaged</DataType>
+			<Speed>85</Speed>
+			<TravelTime>205</TravelTime>
+			<TravelTimeFloat>205.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616377</ID>
+			<DataType>Averaged</DataType>
+			<Speed>18</Speed>
+			<TravelTime>1054</TravelTime>
+			<TravelTimeFloat>1054.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616444</ID>
+			<DataType>Averaged</DataType>
+			<Speed>39</Speed>
+			<TravelTime>181</TravelTime>
+			<TravelTimeFloat>181.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362250</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>275</TravelTime>
+			<TravelTimeFloat>275.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616212</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>54</TravelTime>
+			<TravelTimeFloat>54.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362373</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>201</TravelTime>
+			<TravelTimeFloat>201.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616394</ID>
+			<DataType>Averaged</DataType>
+			<Speed>56</Speed>
+			<TravelTime>228</TravelTime>
+			<TravelTimeFloat>228.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484228</ID>
+			<DataType>Averaged</DataType>
+			<Speed>71</Speed>
+			<TravelTime>199</TravelTime>
+			<TravelTimeFloat>199.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616197</ID>
+			<DataType>Averaged</DataType>
+			<Speed>47</Speed>
+			<TravelTime>93</TravelTime>
+			<TravelTimeFloat>93.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362355</ID>
+			<DataType>Averaged</DataType>
+			<Speed>55</Speed>
+			<TravelTime>256</TravelTime>
+			<TravelTimeFloat>256.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419074</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>83</TravelTime>
+			<TravelTimeFloat>83.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:16:49-05:00">
+			<ID>90000212</ID>
+			<DataType>Averaged</DataType>
+			<Speed>13</Speed>
+			<TravelTime>78</TravelTime>
+			<TravelTimeFloat>78.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362375</ID>
+			<DataType>Averaged</DataType>
+			<Speed>72</Speed>
+			<TravelTime>194</TravelTime>
+			<TravelTimeFloat>194.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484161</ID>
+			<DataType>Averaged</DataType>
+			<Speed>80</Speed>
+			<TravelTime>340</TravelTime>
+			<TravelTimeFloat>340.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361742</ID>
+			<DataType>Averaged</DataType>
+			<Speed>79</Speed>
+			<TravelTime>663</TravelTime>
+			<TravelTimeFloat>663.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575321</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>155</TravelTime>
+			<TravelTimeFloat>155.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362253</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>149</TravelTime>
+			<TravelTimeFloat>149.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616428</ID>
+			<DataType>Averaged</DataType>
+			<Speed>58</Speed>
+			<TravelTime>93</TravelTime>
+			<TravelTimeFloat>93.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419024</ID>
+			<DataType>Averaged</DataType>
+			<Speed>75</Speed>
+			<TravelTime>67</TravelTime>
+			<TravelTimeFloat>67.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:12-05:00">
+			<ID>15</ID>
+			<DataType>Averaged</DataType>
+			<Speed>119</Speed>
+			<TravelTime>142</TravelTime>
+			<TravelTimeFloat>142.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362347</ID>
+			<DataType>Averaged</DataType>
+			<Speed>31</Speed>
+			<TravelTime>453</TravelTime>
+			<TravelTimeFloat>453.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484182</ID>
+			<DataType>Averaged</DataType>
+			<Speed>98</Speed>
+			<TravelTime>304</TravelTime>
+			<TravelTimeFloat>304.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616320</ID>
+			<DataType>Averaged</DataType>
+			<Speed>87</Speed>
+			<TravelTime>213</TravelTime>
+			<TravelTimeFloat>213.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620310</ID>
+			<DataType>Averaged</DataType>
+			<Speed>32</Speed>
+			<TravelTime>401</TravelTime>
+			<TravelTimeFloat>401.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575366</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>820</TravelTime>
+			<TravelTimeFloat>820.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575239</ID>
+			<DataType>Averaged</DataType>
+			<Speed>79</Speed>
+			<TravelTime>99</TravelTime>
+			<TravelTimeFloat>99.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362359</ID>
+			<DataType>Averaged</DataType>
+			<Speed>55</Speed>
+			<TravelTime>283</TravelTime>
+			<TravelTimeFloat>283.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484141</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>216</TravelTime>
+			<TravelTimeFloat>216.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419033</ID>
+			<DataType>Averaged</DataType>
+			<Speed>81</Speed>
+			<TravelTime>45</TravelTime>
+			<TravelTimeFloat>45.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362391</ID>
+			<DataType>Averaged</DataType>
+			<Speed>34</Speed>
+			<TravelTime>401</TravelTime>
+			<TravelTimeFloat>401.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362292</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>235</TravelTime>
+			<TravelTimeFloat>235.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362294</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>204</TravelTime>
+			<TravelTimeFloat>204.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:18:40-05:00">
+			<ID>90005917</ID>
+			<DataType>Averaged</DataType>
+			<Speed>10</Speed>
+			<TravelTime>94</TravelTime>
+			<TravelTimeFloat>94.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616474</ID>
+			<DataType>Averaged</DataType>
+			<Speed>84</Speed>
+			<TravelTime>48</TravelTime>
+			<TravelTimeFloat>48.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484097</ID>
+			<DataType>Averaged</DataType>
+			<Speed>61</Speed>
+			<TravelTime>327</TravelTime>
+			<TravelTimeFloat>327.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:12-05:00">
+			<ID>90000401</ID>
+			<DataType>Averaged</DataType>
+			<Speed>2</Speed>
+			<TravelTime>262</TravelTime>
+			<TravelTimeFloat>262.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616356</ID>
+			<DataType>Averaged</DataType>
+			<Speed>84</Speed>
+			<TravelTime>73</TravelTime>
+			<TravelTimeFloat>73.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362305</ID>
+			<DataType>Averaged</DataType>
+			<Speed>80</Speed>
+			<TravelTime>233</TravelTime>
+			<TravelTimeFloat>233.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419020</ID>
+			<DataType>Averaged</DataType>
+			<Speed>99</Speed>
+			<TravelTime>60</TravelTime>
+			<TravelTimeFloat>60.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616209</ID>
+			<DataType>Averaged</DataType>
+			<Speed>40</Speed>
+			<TravelTime>153</TravelTime>
+			<TravelTimeFloat>153.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575357</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>44</TravelTime>
+			<TravelTimeFloat>44.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616476</ID>
+			<DataType>Averaged</DataType>
+			<Speed>74</Speed>
+			<TravelTime>46</TravelTime>
+			<TravelTimeFloat>46.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4751367</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>386</TravelTime>
+			<TravelTimeFloat>386.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362249</ID>
+			<DataType>Averaged</DataType>
+			<Speed>37</Speed>
+			<TravelTime>167</TravelTime>
+			<TravelTimeFloat>167.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616216</ID>
+			<DataType>Averaged</DataType>
+			<Speed>39</Speed>
+			<TravelTime>289</TravelTime>
+			<TravelTimeFloat>289.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616309</ID>
+			<DataType>Averaged</DataType>
+			<Speed>11</Speed>
+			<TravelTime>575</TravelTime>
+			<TravelTimeFloat>575.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361768</ID>
+			<DataType>Averaged</DataType>
+			<Speed>35</Speed>
+			<TravelTime>264</TravelTime>
+			<TravelTimeFloat>264.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:48-05:00">
+			<ID>4575425</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>352</TravelTime>
+			<TravelTimeFloat>352.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575276</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>81</TravelTime>
+			<TravelTimeFloat>81.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362339</ID>
+			<DataType>Averaged</DataType>
+			<Speed>79</Speed>
+			<TravelTime>187</TravelTime>
+			<TravelTimeFloat>187.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456498</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>64</TravelTime>
+			<TravelTimeFloat>64.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419057</ID>
+			<DataType>Averaged</DataType>
+			<Speed>104</Speed>
+			<TravelTime>15</TravelTime>
+			<TravelTimeFloat>15.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575331</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>640</TravelTime>
+			<TravelTimeFloat>640.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362291</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>254</TravelTime>
+			<TravelTimeFloat>254.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484164</ID>
+			<DataType>Averaged</DataType>
+			<Speed>56</Speed>
+			<TravelTime>82</TravelTime>
+			<TravelTimeFloat>82.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484232</ID>
+			<DataType>Averaged</DataType>
+			<Speed>89</Speed>
+			<TravelTime>139</TravelTime>
+			<TravelTimeFloat>139.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361743</ID>
+			<DataType>Averaged</DataType>
+			<Speed>95</Speed>
+			<TravelTime>415</TravelTime>
+			<TravelTimeFloat>415.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419019</ID>
+			<DataType>Averaged</DataType>
+			<Speed>102</Speed>
+			<TravelTime>89</TravelTime>
+			<TravelTimeFloat>89.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616410</ID>
+			<DataType>Averaged</DataType>
+			<Speed>18</Speed>
+			<TravelTime>643</TravelTime>
+			<TravelTimeFloat>643.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484146</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>565</TravelTime>
+			<TravelTimeFloat>565.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362261</ID>
+			<DataType>Averaged</DataType>
+			<Speed>71</Speed>
+			<TravelTime>514</TravelTime>
+			<TravelTimeFloat>514.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361745</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>155</TravelTime>
+			<TravelTimeFloat>155.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361729</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>199</TravelTime>
+			<TravelTimeFloat>199.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419025</ID>
+			<DataType>Averaged</DataType>
+			<Speed>77</Speed>
+			<TravelTime>54</TravelTime>
+			<TravelTimeFloat>54.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616401</ID>
+			<DataType>Averaged</DataType>
+			<Speed>18</Speed>
+			<TravelTime>450</TravelTime>
+			<TravelTimeFloat>450.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616339</ID>
+			<DataType>Averaged</DataType>
+			<Speed>18</Speed>
+			<TravelTime>656</TravelTime>
+			<TravelTimeFloat>656.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484212</ID>
+			<DataType>Averaged</DataType>
+			<Speed>95</Speed>
+			<TravelTime>140</TravelTime>
+			<TravelTimeFloat>140.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575401</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>162</TravelTime>
+			<TravelTimeFloat>162.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575267</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>81</TravelTime>
+			<TravelTimeFloat>81.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616477</ID>
+			<DataType>Averaged</DataType>
+			<Speed>87</Speed>
+			<TravelTime>125</TravelTime>
+			<TravelTimeFloat>125.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456513</ID>
+			<DataType>Averaged</DataType>
+			<Speed>61</Speed>
+			<TravelTime>68</TravelTime>
+			<TravelTimeFloat>68.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:36-05:00">
+			<ID>90005619</ID>
+			<DataType>Averaged</DataType>
+			<Speed>8</Speed>
+			<TravelTime>119</TravelTime>
+			<TravelTimeFloat>119.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:14-05:00">
+			<ID>13</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>162</TravelTime>
+			<TravelTimeFloat>162.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484159</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>56</TravelTime>
+			<TravelTimeFloat>56.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616398</ID>
+			<DataType>Averaged</DataType>
+			<Speed>24</Speed>
+			<TravelTime>443</TravelTime>
+			<TravelTimeFloat>443.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575235</ID>
+			<DataType>Averaged</DataType>
+			<Speed>82</Speed>
+			<TravelTime>99</TravelTime>
+			<TravelTimeFloat>99.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616414</ID>
+			<DataType>Averaged</DataType>
+			<Speed>24</Speed>
+			<TravelTime>680</TravelTime>
+			<TravelTimeFloat>680.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362296</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>189</TravelTime>
+			<TravelTimeFloat>189.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575402</ID>
+			<DataType>Averaged</DataType>
+			<Speed>90</Speed>
+			<TravelTime>32</TravelTime>
+			<TravelTimeFloat>32.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4763653</ID>
+			<DataType>Averaged</DataType>
+			<Speed>55</Speed>
+			<TravelTime>46</TravelTime>
+			<TravelTimeFloat>46.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362357</ID>
+			<DataType>Averaged</DataType>
+			<Speed>51</Speed>
+			<TravelTime>168</TravelTime>
+			<TravelTimeFloat>168.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:19-05:00">
+			<ID>45</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>115</TravelTime>
+			<TravelTimeFloat>115.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616288</ID>
+			<DataType>Averaged</DataType>
+			<Speed>31</Speed>
+			<TravelTime>188</TravelTime>
+			<TravelTimeFloat>188.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4349953</ID>
+			<DataType>Averaged</DataType>
+			<Speed>34</Speed>
+			<TravelTime>170</TravelTime>
+			<TravelTimeFloat>170.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:03-05:00">
+			<ID>90005256</ID>
+			<DataType>Averaged</DataType>
+			<Speed>11</Speed>
+			<TravelTime>58</TravelTime>
+			<TravelTimeFloat>58.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575307</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>769</TravelTime>
+			<TravelTimeFloat>769.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4763651</ID>
+			<DataType>Averaged</DataType>
+			<Speed>68</Speed>
+			<TravelTime>120</TravelTime>
+			<TravelTimeFloat>120.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419039</ID>
+			<DataType>Averaged</DataType>
+			<Speed>131</Speed>
+			<TravelTime>31</TravelTime>
+			<TravelTimeFloat>31.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616372</ID>
+			<DataType>Averaged</DataType>
+			<Speed>68</Speed>
+			<TravelTime>119</TravelTime>
+			<TravelTimeFloat>119.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616200</ID>
+			<DataType>Averaged</DataType>
+			<Speed>35</Speed>
+			<TravelTime>129</TravelTime>
+			<TravelTimeFloat>129.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575403</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>66</TravelTime>
+			<TravelTimeFloat>66.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419027</ID>
+			<DataType>Averaged</DataType>
+			<Speed>107</Speed>
+			<TravelTime>59</TravelTime>
+			<TravelTimeFloat>59.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362345</ID>
+			<DataType>Averaged</DataType>
+			<Speed>31</Speed>
+			<TravelTime>426</TravelTime>
+			<TravelTimeFloat>426.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362283</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>170</TravelTime>
+			<TravelTimeFloat>170.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616357</ID>
+			<DataType>Averaged</DataType>
+			<Speed>18</Speed>
+			<TravelTime>1108</TravelTime>
+			<TravelTimeFloat>1108.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575381</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>445</TravelTime>
+			<TravelTimeFloat>445.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362323</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>239</TravelTime>
+			<TravelTimeFloat>239.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419015</ID>
+			<DataType>Averaged</DataType>
+			<Speed>78</Speed>
+			<TravelTime>119</TravelTime>
+			<TravelTimeFloat>119.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616446</ID>
+			<DataType>Averaged</DataType>
+			<Speed>26</Speed>
+			<TravelTime>173</TravelTime>
+			<TravelTimeFloat>173.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329501</ID>
+			<DataType>Averaged</DataType>
+			<Speed>11</Speed>
+			<TravelTime>412</TravelTime>
+			<TravelTimeFloat>412.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616393</ID>
+			<DataType>Averaged</DataType>
+			<Speed>39</Speed>
+			<TravelTime>273</TravelTime>
+			<TravelTimeFloat>273.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575355</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>99</TravelTime>
+			<TravelTimeFloat>99.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329507</ID>
+			<DataType>Averaged</DataType>
+			<Speed>13</Speed>
+			<TravelTime>620</TravelTime>
+			<TravelTimeFloat>620.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616438</ID>
+			<DataType>Averaged</DataType>
+			<Speed>64</Speed>
+			<TravelTime>107</TravelTime>
+			<TravelTimeFloat>107.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616375</ID>
+			<DataType>Averaged</DataType>
+			<Speed>82</Speed>
+			<TravelTime>28</TravelTime>
+			<TravelTimeFloat>28.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362313</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>813</TravelTime>
+			<TravelTimeFloat>813.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362263</ID>
+			<DataType>Averaged</DataType>
+			<Speed>79</Speed>
+			<TravelTime>117</TravelTime>
+			<TravelTimeFloat>117.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329509</ID>
+			<DataType>Averaged</DataType>
+			<Speed>39</Speed>
+			<TravelTime>89</TravelTime>
+			<TravelTimeFloat>89.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616205</ID>
+			<DataType>Averaged</DataType>
+			<Speed>24</Speed>
+			<TravelTime>218</TravelTime>
+			<TravelTimeFloat>218.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456483</ID>
+			<DataType>Averaged</DataType>
+			<Speed>76</Speed>
+			<TravelTime>47</TravelTime>
+			<TravelTimeFloat>47.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362268</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>122</TravelTime>
+			<TravelTimeFloat>122.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616455</ID>
+			<DataType>Averaged</DataType>
+			<Speed>6</Speed>
+			<TravelTime>1522</TravelTime>
+			<TravelTimeFloat>1522.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362286</ID>
+			<DataType>Averaged</DataType>
+			<Speed>64</Speed>
+			<TravelTime>394</TravelTime>
+			<TravelTimeFloat>394.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484214</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>110</TravelTime>
+			<TravelTimeFloat>110.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361731</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>116</TravelTime>
+			<TravelTimeFloat>116.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:19-05:00">
+			<ID>5361789</ID>
+			<DataType>Averaged</DataType>
+			<Speed>55</Speed>
+			<TravelTime>147</TravelTime>
+			<TravelTimeFloat>147.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:17:17-05:00">
+			<ID>21</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>141</TravelTime>
+			<TravelTimeFloat>141.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419065</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>52</TravelTime>
+			<TravelTimeFloat>52.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362346</ID>
+			<DataType>Averaged</DataType>
+			<Speed>61</Speed>
+			<TravelTime>165</TravelTime>
+			<TravelTimeFloat>165.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616225</ID>
+			<DataType>Averaged</DataType>
+			<Speed>19</Speed>
+			<TravelTime>568</TravelTime>
+			<TravelTimeFloat>568.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361730</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>187</TravelTime>
+			<TravelTimeFloat>187.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456480</ID>
+			<DataType>Averaged</DataType>
+			<Speed>40</Speed>
+			<TravelTime>119</TravelTime>
+			<TravelTimeFloat>119.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362280</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>217</TravelTime>
+			<TravelTimeFloat>217.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484210</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>64</TravelTime>
+			<TravelTimeFloat>64.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616350</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>282</TravelTime>
+			<TravelTimeFloat>282.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616321</ID>
+			<DataType>Averaged</DataType>
+			<Speed>27</Speed>
+			<TravelTime>528</TravelTime>
+			<TravelTimeFloat>528.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:48-05:00">
+			<ID>4575427</ID>
+			<DataType>Averaged</DataType>
+			<Speed>117</Speed>
+			<TravelTime>183</TravelTime>
+			<TravelTimeFloat>183.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362247</ID>
+			<DataType>Averaged</DataType>
+			<Speed>74</Speed>
+			<TravelTime>348</TravelTime>
+			<TravelTimeFloat>348.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:20-05:00">
+			<ID>5</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>194</TravelTime>
+			<TravelTimeFloat>194.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419066</ID>
+			<DataType>Averaged</DataType>
+			<Speed>80</Speed>
+			<TravelTime>111</TravelTime>
+			<TravelTimeFloat>111.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616215</ID>
+			<DataType>Averaged</DataType>
+			<Speed>89</Speed>
+			<TravelTime>136</TravelTime>
+			<TravelTimeFloat>136.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:22:25-05:00">
+			<ID>90005452</ID>
+			<DataType>Averaged</DataType>
+			<Speed>11</Speed>
+			<TravelTime>32</TravelTime>
+			<TravelTimeFloat>32.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616220</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>109</TravelTime>
+			<TravelTimeFloat>109.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329483</ID>
+			<DataType>Averaged</DataType>
+			<Speed>79</Speed>
+			<TravelTime>155</TravelTime>
+			<TravelTimeFloat>155.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362303</ID>
+			<DataType>Averaged</DataType>
+			<Speed>80</Speed>
+			<TravelTime>187</TravelTime>
+			<TravelTimeFloat>187.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616411</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>367</TravelTime>
+			<TravelTimeFloat>367.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616261</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>174</TravelTime>
+			<TravelTimeFloat>174.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>5107720</ID>
+			<DataType>Averaged</DataType>
+			<Speed>82</Speed>
+			<TravelTime>98</TravelTime>
+			<TravelTimeFloat>98.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:19-05:00">
+			<ID>5361783</ID>
+			<DataType>Averaged</DataType>
+			<Speed>10</Speed>
+			<TravelTime>287</TravelTime>
+			<TravelTimeFloat>287.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4349955</ID>
+			<DataType>Averaged</DataType>
+			<Speed>34</Speed>
+			<TravelTime>170</TravelTime>
+			<TravelTimeFloat>170.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>5107714</ID>
+			<DataType>Averaged</DataType>
+			<Speed>79</Speed>
+			<TravelTime>105</TravelTime>
+			<TravelTimeFloat>105.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>5107719</ID>
+			<DataType>Averaged</DataType>
+			<Speed>27</Speed>
+			<TravelTime>431</TravelTime>
+			<TravelTimeFloat>431.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>5107713</ID>
+			<DataType>Averaged</DataType>
+			<Speed>68</Speed>
+			<TravelTime>80</TravelTime>
+			<TravelTimeFloat>80.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4763661</ID>
+			<DataType>Averaged</DataType>
+			<Speed>74</Speed>
+			<TravelTime>174</TravelTime>
+			<TravelTimeFloat>174.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:11:08-05:00">
+			<ID>90001518</ID>
+			<DataType>Averaged</DataType>
+			<Speed>3</Speed>
+			<TravelTime>375</TravelTime>
+			<TravelTimeFloat>375.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:17:42-05:00">
+			<ID>90000405</ID>
+			<DataType>Averaged</DataType>
+			<Speed>15</Speed>
+			<TravelTime>136</TravelTime>
+			<TravelTimeFloat>136.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:18-05:00">
+			<ID>90000201</ID>
+			<DataType>Averaged</DataType>
+			<Speed>16</Speed>
+			<TravelTime>125</TravelTime>
+			<TravelTimeFloat>125.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616457</ID>
+			<DataType>Averaged</DataType>
+			<Speed>21</Speed>
+			<TravelTime>1167</TravelTime>
+			<TravelTimeFloat>1167.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:14:46-05:00">
+			<ID>90005637</ID>
+			<DataType>Averaged</DataType>
+			<Speed>19</Speed>
+			<TravelTime>120</TravelTime>
+			<TravelTimeFloat>120.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616430</ID>
+			<DataType>Averaged</DataType>
+			<Speed>68</Speed>
+			<TravelTime>137</TravelTime>
+			<TravelTimeFloat>137.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361716</ID>
+			<DataType>Averaged</DataType>
+			<Speed>32</Speed>
+			<TravelTime>293</TravelTime>
+			<TravelTimeFloat>293.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362299</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>217</TravelTime>
+			<TravelTimeFloat>217.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:14:53-05:00">
+			<ID>90005839</ID>
+			<DataType>Averaged</DataType>
+			<Speed>7</Speed>
+			<TravelTime>355</TravelTime>
+			<TravelTimeFloat>355.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:28-05:00">
+			<ID>90001215</ID>
+			<DataType>Averaged</DataType>
+			<Speed>5</Speed>
+			<TravelTime>221</TravelTime>
+			<TravelTimeFloat>221.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:19:02-05:00">
+			<ID>90004358</ID>
+			<DataType>Averaged</DataType>
+			<Speed>11</Speed>
+			<TravelTime>397</TravelTime>
+			<TravelTimeFloat>397.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575352</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>119</TravelTime>
+			<TravelTimeFloat>119.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4349969</ID>
+			<DataType>Averaged</DataType>
+			<Speed>77</Speed>
+			<TravelTime>294</TravelTime>
+			<TravelTimeFloat>294.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362388</ID>
+			<DataType>Averaged</DataType>
+			<Speed>32</Speed>
+			<TravelTime>1011</TravelTime>
+			<TravelTimeFloat>1011.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:48-05:00">
+			<ID>4575430</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>261</TravelTime>
+			<TravelTimeFloat>261.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362379</ID>
+			<DataType>Averaged</DataType>
+			<Speed>45</Speed>
+			<TravelTime>438</TravelTime>
+			<TravelTimeFloat>438.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484150</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>576</TravelTime>
+			<TravelTimeFloat>576.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616362</ID>
+			<DataType>Averaged</DataType>
+			<Speed>24</Speed>
+			<TravelTime>796</TravelTime>
+			<TravelTimeFloat>796.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616214</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>81</TravelTime>
+			<TravelTimeFloat>81.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616329</ID>
+			<DataType>Averaged</DataType>
+			<Speed>13</Speed>
+			<TravelTime>806</TravelTime>
+			<TravelTimeFloat>806.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:22:40-05:00">
+			<ID>90000313</ID>
+			<DataType>Averaged</DataType>
+			<Speed>2</Speed>
+			<TravelTime>591</TravelTime>
+			<TravelTimeFloat>591.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575354</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>45</TravelTime>
+			<TravelTimeFloat>45.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419014</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>29</TravelTime>
+			<TravelTimeFloat>29.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616278</ID>
+			<DataType>Averaged</DataType>
+			<Speed>32</Speed>
+			<TravelTime>134</TravelTime>
+			<TravelTimeFloat>134.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456502</ID>
+			<DataType>Averaged</DataType>
+			<Speed>48</Speed>
+			<TravelTime>214</TravelTime>
+			<TravelTimeFloat>214.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362300</ID>
+			<DataType>Averaged</DataType>
+			<Speed>101</Speed>
+			<TravelTime>197</TravelTime>
+			<TravelTimeFloat>197.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620307</ID>
+			<DataType>Averaged</DataType>
+			<Speed>29</Speed>
+			<TravelTime>327</TravelTime>
+			<TravelTimeFloat>327.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484179</ID>
+			<DataType>Averaged</DataType>
+			<Speed>98</Speed>
+			<TravelTime>305</TravelTime>
+			<TravelTimeFloat>305.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575345</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>276</TravelTime>
+			<TravelTimeFloat>276.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575258</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>103</TravelTime>
+			<TravelTimeFloat>103.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616458</ID>
+			<DataType>Averaged</DataType>
+			<Speed>21</Speed>
+			<TravelTime>1144</TravelTime>
+			<TravelTimeFloat>1144.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616386</ID>
+			<DataType>Averaged</DataType>
+			<Speed>39</Speed>
+			<TravelTime>141</TravelTime>
+			<TravelTimeFloat>141.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456493</ID>
+			<DataType>Averaged</DataType>
+			<Speed>64</Speed>
+			<TravelTime>39</TravelTime>
+			<TravelTimeFloat>39.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362374</ID>
+			<DataType>Averaged</DataType>
+			<Speed>76</Speed>
+			<TravelTime>179</TravelTime>
+			<TravelTimeFloat>179.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616264</ID>
+			<DataType>Averaged</DataType>
+			<Speed>80</Speed>
+			<TravelTime>89</TravelTime>
+			<TravelTimeFloat>89.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456452</ID>
+			<DataType>Averaged</DataType>
+			<Speed>42</Speed>
+			<TravelTime>92</TravelTime>
+			<TravelTimeFloat>92.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456528</ID>
+			<DataType>Averaged</DataType>
+			<Speed>29</Speed>
+			<TravelTime>413</TravelTime>
+			<TravelTimeFloat>413.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362276</ID>
+			<DataType>Averaged</DataType>
+			<Speed>51</Speed>
+			<TravelTime>293</TravelTime>
+			<TravelTimeFloat>293.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361699</ID>
+			<DataType>Averaged</DataType>
+			<Speed>89</Speed>
+			<TravelTime>303</TravelTime>
+			<TravelTimeFloat>303.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575378</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>678</TravelTime>
+			<TravelTimeFloat>678.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:19:25-05:00">
+			<ID>14</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>153</TravelTime>
+			<TravelTimeFloat>153.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575252</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>95</TravelTime>
+			<TravelTimeFloat>95.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361671</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>72</TravelTime>
+			<TravelTimeFloat>72.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575343</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>338</TravelTime>
+			<TravelTimeFloat>338.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:13:03-05:00">
+			<ID>90001514</ID>
+			<DataType>Averaged</DataType>
+			<Speed>14</Speed>
+			<TravelTime>140</TravelTime>
+			<TravelTimeFloat>140.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616434</ID>
+			<DataType>Averaged</DataType>
+			<Speed>76</Speed>
+			<TravelTime>71</TravelTime>
+			<TravelTimeFloat>71.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:17:27-05:00">
+			<ID>90003839</ID>
+			<DataType>Averaged</DataType>
+			<Speed>8</Speed>
+			<TravelTime>119</TravelTime>
+			<TravelTimeFloat>119.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620321</ID>
+			<DataType>Averaged</DataType>
+			<Speed>50</Speed>
+			<TravelTime>381</TravelTime>
+			<TravelTimeFloat>381.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456514</ID>
+			<DataType>Averaged</DataType>
+			<Speed>85</Speed>
+			<TravelTime>73</TravelTime>
+			<TravelTimeFloat>73.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362324</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>223</TravelTime>
+			<TravelTimeFloat>223.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616218</ID>
+			<DataType>Averaged</DataType>
+			<Speed>79</Speed>
+			<TravelTime>46</TravelTime>
+			<TravelTimeFloat>46.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620314</ID>
+			<DataType>Averaged</DataType>
+			<Speed>34</Speed>
+			<TravelTime>202</TravelTime>
+			<TravelTimeFloat>202.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419056</ID>
+			<DataType>Averaged</DataType>
+			<Speed>104</Speed>
+			<TravelTime>75</TravelTime>
+			<TravelTimeFloat>75.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4763659</ID>
+			<DataType>Averaged</DataType>
+			<Speed>48</Speed>
+			<TravelTime>85</TravelTime>
+			<TravelTimeFloat>85.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419073</ID>
+			<DataType>Averaged</DataType>
+			<Speed>98</Speed>
+			<TravelTime>108</TravelTime>
+			<TravelTimeFloat>108.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575384</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>801</TravelTime>
+			<TravelTimeFloat>801.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:41-05:00">
+			<ID>90000506</ID>
+			<DataType>Averaged</DataType>
+			<Speed>5</Speed>
+			<TravelTime>481</TravelTime>
+			<TravelTimeFloat>481.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616346</ID>
+			<DataType>Averaged</DataType>
+			<Speed>76</Speed>
+			<TravelTime>423</TravelTime>
+			<TravelTimeFloat>423.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575298</ID>
+			<DataType>Averaged</DataType>
+			<Speed>90</Speed>
+			<TravelTime>65</TravelTime>
+			<TravelTimeFloat>65.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362282</ID>
+			<DataType>Averaged</DataType>
+			<Speed>90</Speed>
+			<TravelTime>202</TravelTime>
+			<TravelTimeFloat>202.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616448</ID>
+			<DataType>Averaged</DataType>
+			<Speed>13</Speed>
+			<TravelTime>1013</TravelTime>
+			<TravelTimeFloat>1013.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362260</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>390</TravelTime>
+			<TravelTimeFloat>390.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616208</ID>
+			<DataType>Averaged</DataType>
+			<Speed>35</Speed>
+			<TravelTime>64</TravelTime>
+			<TravelTimeFloat>64.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575313</ID>
+			<DataType>Averaged</DataType>
+			<Speed>119</Speed>
+			<TravelTime>270</TravelTime>
+			<TravelTimeFloat>270.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456529</ID>
+			<DataType>Averaged</DataType>
+			<Speed>37</Speed>
+			<TravelTime>303</TravelTime>
+			<TravelTimeFloat>303.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575367</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>737</TravelTime>
+			<TravelTimeFloat>737.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456526</ID>
+			<DataType>Averaged</DataType>
+			<Speed>45</Speed>
+			<TravelTime>117</TravelTime>
+			<TravelTimeFloat>117.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575390</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>162</TravelTime>
+			<TravelTimeFloat>162.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4751366</ID>
+			<DataType>Averaged</DataType>
+			<Speed>48</Speed>
+			<TravelTime>192</TravelTime>
+			<TravelTimeFloat>192.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329512</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>72</TravelTime>
+			<TravelTimeFloat>72.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:24-05:00">
+			<ID>19</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>141</TravelTime>
+			<TravelTimeFloat>141.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575372</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>533</TravelTime>
+			<TravelTimeFloat>533.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575377</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>483</TravelTime>
+			<TravelTimeFloat>483.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362390</ID>
+			<DataType>Averaged</DataType>
+			<Speed>47</Speed>
+			<TravelTime>356</TravelTime>
+			<TravelTimeFloat>356.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620346</ID>
+			<DataType>Averaged</DataType>
+			<Speed>26</Speed>
+			<TravelTime>156</TravelTime>
+			<TravelTimeFloat>156.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575389</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>127</TravelTime>
+			<TravelTimeFloat>127.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575243</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>56</TravelTime>
+			<TravelTimeFloat>56.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362381</ID>
+			<DataType>Averaged</DataType>
+			<Speed>8</Speed>
+			<TravelTime>1160</TravelTime>
+			<TravelTimeFloat>1160.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484227</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>203</TravelTime>
+			<TravelTimeFloat>203.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329526</ID>
+			<DataType>Averaged</DataType>
+			<Speed>82</Speed>
+			<TravelTime>160</TravelTime>
+			<TravelTimeFloat>160.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616253</ID>
+			<DataType>Averaged</DataType>
+			<Speed>79</Speed>
+			<TravelTime>52</TravelTime>
+			<TravelTimeFloat>52.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419043</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>64</TravelTime>
+			<TravelTimeFloat>64.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361726</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>279</TravelTime>
+			<TravelTimeFloat>279.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575327</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>1131</TravelTime>
+			<TravelTimeFloat>1131.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484123</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>83</TravelTime>
+			<TravelTimeFloat>83.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:19-05:00">
+			<ID>5361774</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>126</TravelTime>
+			<TravelTimeFloat>126.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362360</ID>
+			<DataType>Averaged</DataType>
+			<Speed>68</Speed>
+			<TravelTime>226</TravelTime>
+			<TravelTimeFloat>226.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362293</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>221</TravelTime>
+			<TravelTimeFloat>221.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419029</ID>
+			<DataType>Averaged</DataType>
+			<Speed>82</Speed>
+			<TravelTime>39</TravelTime>
+			<TravelTimeFloat>39.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362376</ID>
+			<DataType>Averaged</DataType>
+			<Speed>60</Speed>
+			<TravelTime>189</TravelTime>
+			<TravelTimeFloat>189.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575320</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>594</TravelTime>
+			<TravelTimeFloat>594.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484211</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>83</TravelTime>
+			<TravelTimeFloat>83.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575348</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>275</TravelTime>
+			<TravelTimeFloat>275.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575233</ID>
+			<DataType>Averaged</DataType>
+			<Speed>87</Speed>
+			<TravelTime>146</TravelTime>
+			<TravelTimeFloat>146.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575392</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>123</TravelTime>
+			<TravelTimeFloat>123.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:15:31-05:00">
+			<ID>90000502</ID>
+			<DataType>Averaged</DataType>
+			<Speed>20</Speed>
+			<TravelTime>25</TravelTime>
+			<TravelTimeFloat>25.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362341</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>222</TravelTime>
+			<TravelTimeFloat>222.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616301</ID>
+			<DataType>Averaged</DataType>
+			<Speed>19</Speed>
+			<TravelTime>142</TravelTime>
+			<TravelTimeFloat>142.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:31-05:00">
+			<ID>32</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>137</TravelTime>
+			<TravelTimeFloat>137.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4349959</ID>
+			<DataType>Averaged</DataType>
+			<Speed>48</Speed>
+			<TravelTime>35</TravelTime>
+			<TravelTimeFloat>35.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616420</ID>
+			<DataType>Averaged</DataType>
+			<Speed>68</Speed>
+			<TravelTime>28</TravelTime>
+			<TravelTimeFloat>28.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456500</ID>
+			<DataType>Averaged</DataType>
+			<Speed>45</Speed>
+			<TravelTime>228</TravelTime>
+			<TravelTimeFloat>228.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616392</ID>
+			<DataType>Averaged</DataType>
+			<Speed>32</Speed>
+			<TravelTime>164</TravelTime>
+			<TravelTimeFloat>164.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616454</ID>
+			<DataType>Averaged</DataType>
+			<Speed>24</Speed>
+			<TravelTime>427</TravelTime>
+			<TravelTimeFloat>427.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361744</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>386</TravelTime>
+			<TravelTimeFloat>386.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616388</ID>
+			<DataType>Averaged</DataType>
+			<Speed>24</Speed>
+			<TravelTime>780</TravelTime>
+			<TravelTimeFloat>780.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616235</ID>
+			<DataType>Averaged</DataType>
+			<Speed>29</Speed>
+			<TravelTime>389</TravelTime>
+			<TravelTimeFloat>389.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616257</ID>
+			<DataType>Averaged</DataType>
+			<Speed>26</Speed>
+			<TravelTime>928</TravelTime>
+			<TravelTimeFloat>928.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362327</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>188</TravelTime>
+			<TravelTimeFloat>188.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616201</ID>
+			<DataType>Averaged</DataType>
+			<Speed>61</Speed>
+			<TravelTime>204</TravelTime>
+			<TravelTimeFloat>204.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620288</ID>
+			<DataType>Averaged</DataType>
+			<Speed>18</Speed>
+			<TravelTime>597</TravelTime>
+			<TravelTimeFloat>597.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484180</ID>
+			<DataType>Averaged</DataType>
+			<Speed>68</Speed>
+			<TravelTime>162</TravelTime>
+			<TravelTimeFloat>162.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620324</ID>
+			<DataType>Averaged</DataType>
+			<Speed>61</Speed>
+			<TravelTime>283</TravelTime>
+			<TravelTimeFloat>283.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575257</ID>
+			<DataType>Averaged</DataType>
+			<Speed>82</Speed>
+			<TravelTime>126</TravelTime>
+			<TravelTimeFloat>126.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419067</ID>
+			<DataType>Averaged</DataType>
+			<Speed>122</Speed>
+			<TravelTime>18</TravelTime>
+			<TravelTimeFloat>18.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616435</ID>
+			<DataType>Averaged</DataType>
+			<Speed>80</Speed>
+			<TravelTime>61</TravelTime>
+			<TravelTimeFloat>61.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616413</ID>
+			<DataType>Averaged</DataType>
+			<Speed>10</Speed>
+			<TravelTime>1976</TravelTime>
+			<TravelTimeFloat>1976.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362352</ID>
+			<DataType>Averaged</DataType>
+			<Speed>26</Speed>
+			<TravelTime>496</TravelTime>
+			<TravelTimeFloat>496.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362297</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>175</TravelTime>
+			<TravelTimeFloat>175.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616252</ID>
+			<DataType>Averaged</DataType>
+			<Speed>19</Speed>
+			<TravelTime>412</TravelTime>
+			<TravelTimeFloat>412.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616219</ID>
+			<DataType>Averaged</DataType>
+			<Speed>61</Speed>
+			<TravelTime>63</TravelTime>
+			<TravelTimeFloat>63.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575265</ID>
+			<DataType>Averaged</DataType>
+			<Speed>82</Speed>
+			<TravelTime>126</TravelTime>
+			<TravelTimeFloat>126.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616391</ID>
+			<DataType>Averaged</DataType>
+			<Speed>35</Speed>
+			<TravelTime>328</TravelTime>
+			<TravelTimeFloat>328.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575353</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>205</TravelTime>
+			<TravelTimeFloat>205.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329500</ID>
+			<DataType>Averaged</DataType>
+			<Speed>42</Speed>
+			<TravelTime>81</TravelTime>
+			<TravelTimeFloat>81.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361707</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>213</TravelTime>
+			<TravelTimeFloat>213.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620292</ID>
+			<DataType>Averaged</DataType>
+			<Speed>26</Speed>
+			<TravelTime>427</TravelTime>
+			<TravelTimeFloat>427.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575356</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>96</TravelTime>
+			<TravelTimeFloat>96.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575350</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>335</TravelTime>
+			<TravelTimeFloat>335.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484188</ID>
+			<DataType>Averaged</DataType>
+			<Speed>82</Speed>
+			<TravelTime>125</TravelTime>
+			<TravelTimeFloat>125.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:22:10-05:00">
+			<ID>90002216</ID>
+			<DataType>Averaged</DataType>
+			<Speed>15</Speed>
+			<TravelTime>281</TravelTime>
+			<TravelTimeFloat>281.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616324</ID>
+			<DataType>Averaged</DataType>
+			<Speed>24</Speed>
+			<TravelTime>411</TravelTime>
+			<TravelTimeFloat>411.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:20-05:00">
+			<ID>9</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>324</TravelTime>
+			<TravelTimeFloat>324.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484231</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>52</TravelTime>
+			<TravelTimeFloat>52.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361710</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>926</TravelTime>
+			<TravelTimeFloat>926.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419034</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>68</TravelTime>
+			<TravelTimeFloat>68.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419040</ID>
+			<DataType>Averaged</DataType>
+			<Speed>120</Speed>
+			<TravelTime>41</TravelTime>
+			<TravelTimeFloat>41.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:26-05:00">
+			<ID>24</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>139</TravelTime>
+			<TravelTimeFloat>139.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:34-05:00">
+			<ID>90003854</ID>
+			<DataType>Averaged</DataType>
+			<Speed>17</Speed>
+			<TravelTime>140</TravelTime>
+			<TravelTimeFloat>140.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:18:36-05:00">
+			<ID>90003738</ID>
+			<DataType>Averaged</DataType>
+			<Speed>15</Speed>
+			<TravelTime>67</TravelTime>
+			<TravelTimeFloat>67.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616341</ID>
+			<DataType>Averaged</DataType>
+			<Speed>11</Speed>
+			<TravelTime>377</TravelTime>
+			<TravelTimeFloat>377.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:17:47-05:00">
+			<ID>4575422</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>145</TravelTime>
+			<TravelTimeFloat>145.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4349965</ID>
+			<DataType>Averaged</DataType>
+			<Speed>50</Speed>
+			<TravelTime>160</TravelTime>
+			<TravelTimeFloat>160.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616275</ID>
+			<DataType>Averaged</DataType>
+			<Speed>35</Speed>
+			<TravelTime>202</TravelTime>
+			<TravelTimeFloat>202.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:50-05:00">
+			<ID>90003536</ID>
+			<DataType>Averaged</DataType>
+			<Speed>78</Speed>
+			<TravelTime>259</TravelTime>
+			<TravelTimeFloat>259.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362252</ID>
+			<DataType>Averaged</DataType>
+			<Speed>64</Speed>
+			<TravelTime>293</TravelTime>
+			<TravelTimeFloat>293.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456503</ID>
+			<DataType>Averaged</DataType>
+			<Speed>53</Speed>
+			<TravelTime>46</TravelTime>
+			<TravelTimeFloat>46.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575370</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>427</TravelTime>
+			<TravelTimeFloat>427.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362315</ID>
+			<DataType>Averaged</DataType>
+			<Speed>80</Speed>
+			<TravelTime>184</TravelTime>
+			<TravelTimeFloat>184.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362273</ID>
+			<DataType>Averaged</DataType>
+			<Speed>32</Speed>
+			<TravelTime>319</TravelTime>
+			<TravelTimeFloat>319.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484137</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>602</TravelTime>
+			<TravelTimeFloat>602.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616311</ID>
+			<DataType>Averaged</DataType>
+			<Speed>64</Speed>
+			<TravelTime>87</TravelTime>
+			<TravelTimeFloat>87.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:04-05:00">
+			<ID>90001615</ID>
+			<DataType>Averaged</DataType>
+			<Speed>19</Speed>
+			<TravelTime>123</TravelTime>
+			<TravelTimeFloat>123.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361698</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>182</TravelTime>
+			<TravelTimeFloat>182.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419016</ID>
+			<DataType>Averaged</DataType>
+			<Speed>87</Speed>
+			<TravelTime>71</TravelTime>
+			<TravelTimeFloat>71.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484199</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>100</TravelTime>
+			<TravelTimeFloat>100.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620306</ID>
+			<DataType>Averaged</DataType>
+			<Speed>58</Speed>
+			<TravelTime>150</TravelTime>
+			<TravelTimeFloat>150.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:11:50-05:00">
+			<ID>90002829</ID>
+			<DataType>Averaged</DataType>
+			<Speed>88</Speed>
+			<TravelTime>165</TravelTime>
+			<TravelTimeFloat>165.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484165</ID>
+			<DataType>Averaged</DataType>
+			<Speed>58</Speed>
+			<TravelTime>78</TravelTime>
+			<TravelTimeFloat>78.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616412</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>324</TravelTime>
+			<TravelTimeFloat>324.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620301</ID>
+			<DataType>Averaged</DataType>
+			<Speed>71</Speed>
+			<TravelTime>118</TravelTime>
+			<TravelTimeFloat>118.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:02-05:00">
+			<ID>38</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>91</TravelTime>
+			<TravelTimeFloat>91.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575393</ID>
+			<DataType>Averaged</DataType>
+			<Speed>58</Speed>
+			<TravelTime>50</TravelTime>
+			<TravelTimeFloat>50.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575375</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>854</TravelTime>
+			<TravelTimeFloat>854.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362284</ID>
+			<DataType>Averaged</DataType>
+			<Speed>68</Speed>
+			<TravelTime>303</TravelTime>
+			<TravelTimeFloat>303.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419071</ID>
+			<DataType>Averaged</DataType>
+			<Speed>44</Speed>
+			<TravelTime>157</TravelTime>
+			<TravelTimeFloat>157.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616452</ID>
+			<DataType>Averaged</DataType>
+			<Speed>21</Speed>
+			<TravelTime>442</TravelTime>
+			<TravelTimeFloat>442.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616298</ID>
+			<DataType>Averaged</DataType>
+			<Speed>40</Speed>
+			<TravelTime>354</TravelTime>
+			<TravelTimeFloat>354.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361770</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>132</TravelTime>
+			<TravelTimeFloat>132.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:13:54-05:00">
+			<ID>90002004</ID>
+			<DataType>Averaged</DataType>
+			<Speed>8</Speed>
+			<TravelTime>307</TravelTime>
+			<TravelTimeFloat>307.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:12:14-05:00">
+			<ID>90000104</ID>
+			<DataType>Averaged</DataType>
+			<Speed>18</Speed>
+			<TravelTime>27</TravelTime>
+			<TravelTimeFloat>27.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361769</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>88</TravelTime>
+			<TravelTimeFloat>88.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616355</ID>
+			<DataType>Averaged</DataType>
+			<Speed>24</Speed>
+			<TravelTime>591</TravelTime>
+			<TravelTimeFloat>591.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361717</ID>
+			<DataType>Averaged</DataType>
+			<Speed>203</Speed>
+			<TravelTime>51</TravelTime>
+			<TravelTimeFloat>51.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575247</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>63</TravelTime>
+			<TravelTimeFloat>63.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:18:01-05:00">
+			<ID>90001916</ID>
+			<DataType>Averaged</DataType>
+			<Speed>2</Speed>
+			<TravelTime>686</TravelTime>
+			<TravelTimeFloat>686.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575311</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>304</TravelTime>
+			<TravelTimeFloat>304.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575242</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>23</TravelTime>
+			<TravelTimeFloat>23.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329493</ID>
+			<DataType>Averaged</DataType>
+			<Speed>55</Speed>
+			<TravelTime>92</TravelTime>
+			<TravelTimeFloat>92.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:12:49-05:00">
+			<ID>90005254</ID>
+			<DataType>Averaged</DataType>
+			<Speed>5</Speed>
+			<TravelTime>70</TravelTime>
+			<TravelTimeFloat>70.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:17:28-05:00">
+			<ID>90001837</ID>
+			<DataType>Averaged</DataType>
+			<Speed>5</Speed>
+			<TravelTime>192</TravelTime>
+			<TravelTimeFloat>192.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575408</ID>
+			<DataType>Averaged</DataType>
+			<Speed>80</Speed>
+			<TravelTime>224</TravelTime>
+			<TravelTimeFloat>224.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:14:46-05:00">
+			<ID>90001411</ID>
+			<DataType>Averaged</DataType>
+			<Speed>14</Speed>
+			<TravelTime>41</TravelTime>
+			<TravelTimeFloat>41.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616421</ID>
+			<DataType>Averaged</DataType>
+			<Speed>98</Speed>
+			<TravelTime>78</TravelTime>
+			<TravelTimeFloat>78.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484124</ID>
+			<DataType>Averaged</DataType>
+			<Speed>101</Speed>
+			<TravelTime>141</TravelTime>
+			<TravelTimeFloat>141.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361752</ID>
+			<DataType>Averaged</DataType>
+			<Speed>14</Speed>
+			<TravelTime>560</TravelTime>
+			<TravelTimeFloat>560.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484200</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>112</TravelTime>
+			<TravelTimeFloat>112.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484209</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>74</TravelTime>
+			<TravelTimeFloat>74.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616400</ID>
+			<DataType>Averaged</DataType>
+			<Speed>31</Speed>
+			<TravelTime>270</TravelTime>
+			<TravelTimeFloat>270.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616323</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>161</TravelTime>
+			<TravelTimeFloat>161.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329508</ID>
+			<DataType>Averaged</DataType>
+			<Speed>50</Speed>
+			<TravelTime>176</TravelTime>
+			<TravelTimeFloat>176.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616396</ID>
+			<DataType>Averaged</DataType>
+			<Speed>43</Speed>
+			<TravelTime>292</TravelTime>
+			<TravelTimeFloat>292.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362321</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>209</TravelTime>
+			<TravelTimeFloat>209.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616409</ID>
+			<DataType>Averaged</DataType>
+			<Speed>18</Speed>
+			<TravelTime>261</TravelTime>
+			<TravelTimeFloat>261.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361733</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>290</TravelTime>
+			<TravelTimeFloat>290.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362366</ID>
+			<DataType>Averaged</DataType>
+			<Speed>45</Speed>
+			<TravelTime>174</TravelTime>
+			<TravelTimeFloat>174.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361702</ID>
+			<DataType>Averaged</DataType>
+			<Speed>72</Speed>
+			<TravelTime>104</TravelTime>
+			<TravelTimeFloat>104.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362298</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>171</TravelTime>
+			<TravelTimeFloat>171.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575395</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>138</TravelTime>
+			<TravelTimeFloat>138.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419031</ID>
+			<DataType>Averaged</DataType>
+			<Speed>65</Speed>
+			<TravelTime>128</TravelTime>
+			<TravelTimeFloat>128.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575410</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>168</TravelTime>
+			<TravelTimeFloat>168.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575318</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>601</TravelTime>
+			<TravelTimeFloat>601.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362314</ID>
+			<DataType>Averaged</DataType>
+			<Speed>24</Speed>
+			<TravelTime>179</TravelTime>
+			<TravelTimeFloat>179.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616475</ID>
+			<DataType>Averaged</DataType>
+			<Speed>47</Speed>
+			<TravelTime>235</TravelTime>
+			<TravelTimeFloat>235.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620344</ID>
+			<DataType>Averaged</DataType>
+			<Speed>11</Speed>
+			<TravelTime>772</TravelTime>
+			<TravelTimeFloat>772.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:19:54-05:00">
+			<ID>7</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>156</TravelTime>
+			<TravelTimeFloat>156.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575363</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>356</TravelTime>
+			<TravelTimeFloat>356.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575349</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>121</TravelTime>
+			<TravelTimeFloat>121.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620289</ID>
+			<DataType>Averaged</DataType>
+			<Speed>13</Speed>
+			<TravelTime>698</TravelTime>
+			<TravelTimeFloat>698.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4763648</ID>
+			<DataType>Averaged</DataType>
+			<Speed>71</Speed>
+			<TravelTime>57</TravelTime>
+			<TravelTimeFloat>57.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419064</ID>
+			<DataType>Averaged</DataType>
+			<Speed>110</Speed>
+			<TravelTime>21</TravelTime>
+			<TravelTimeFloat>21.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575400</ID>
+			<DataType>Averaged</DataType>
+			<Speed>98</Speed>
+			<TravelTime>153</TravelTime>
+			<TravelTimeFloat>153.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575244</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>85</TravelTime>
+			<TravelTimeFloat>85.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616424</ID>
+			<DataType>Averaged</DataType>
+			<Speed>16</Speed>
+			<TravelTime>199</TravelTime>
+			<TravelTimeFloat>199.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329529</ID>
+			<DataType>Averaged</DataType>
+			<Speed>21</Speed>
+			<TravelTime>78</TravelTime>
+			<TravelTimeFloat>78.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:19:20-05:00">
+			<ID>8</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>160</TravelTime>
+			<TravelTimeFloat>160.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:10-05:00">
+			<ID>90004248</ID>
+			<DataType>Averaged</DataType>
+			<Speed>8</Speed>
+			<TravelTime>98</TravelTime>
+			<TravelTimeFloat>98.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362265</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>207</TravelTime>
+			<TravelTimeFloat>207.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575388</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>367</TravelTime>
+			<TravelTimeFloat>367.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362256</ID>
+			<DataType>Averaged</DataType>
+			<Speed>90</Speed>
+			<TravelTime>222</TravelTime>
+			<TravelTimeFloat>222.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620311</ID>
+			<DataType>Averaged</DataType>
+			<Speed>37</Speed>
+			<TravelTime>354</TravelTime>
+			<TravelTimeFloat>354.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616447</ID>
+			<DataType>Averaged</DataType>
+			<Speed>37</Speed>
+			<TravelTime>267</TravelTime>
+			<TravelTimeFloat>267.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616431</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>461</TravelTime>
+			<TravelTimeFloat>461.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419051</ID>
+			<DataType>Averaged</DataType>
+			<Speed>58</Speed>
+			<TravelTime>34</TravelTime>
+			<TravelTimeFloat>34.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616291</ID>
+			<DataType>Averaged</DataType>
+			<Speed>24</Speed>
+			<TravelTime>423</TravelTime>
+			<TravelTimeFloat>423.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>5107717</ID>
+			<DataType>Averaged</DataType>
+			<Speed>74</Speed>
+			<TravelTime>52</TravelTime>
+			<TravelTimeFloat>52.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484217</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>189</TravelTime>
+			<TravelTimeFloat>189.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616195</ID>
+			<DataType>Averaged</DataType>
+			<Speed>24</Speed>
+			<TravelTime>264</TravelTime>
+			<TravelTimeFloat>264.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616385</ID>
+			<DataType>Averaged</DataType>
+			<Speed>29</Speed>
+			<TravelTime>544</TravelTime>
+			<TravelTimeFloat>544.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362328</ID>
+			<DataType>Averaged</DataType>
+			<Speed>101</Speed>
+			<TravelTime>199</TravelTime>
+			<TravelTimeFloat>199.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575322</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>277</TravelTime>
+			<TravelTimeFloat>277.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575309</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>1006</TravelTime>
+			<TravelTimeFloat>1006.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620332</ID>
+			<DataType>Averaged</DataType>
+			<Speed>16</Speed>
+			<TravelTime>394</TravelTime>
+			<TravelTimeFloat>394.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575369</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>764</TravelTime>
+			<TravelTimeFloat>764.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456450</ID>
+			<DataType>Averaged</DataType>
+			<Speed>53</Speed>
+			<TravelTime>72</TravelTime>
+			<TravelTimeFloat>72.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484183</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>94</TravelTime>
+			<TravelTimeFloat>94.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616247</ID>
+			<DataType>Averaged</DataType>
+			<Speed>11</Speed>
+			<TravelTime>1017</TravelTime>
+			<TravelTimeFloat>1017.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:35-05:00">
+			<ID>48</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>96</TravelTime>
+			<TravelTimeFloat>96.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:16:41-05:00">
+			<ID>28</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>159</TravelTime>
+			<TravelTimeFloat>159.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484194</ID>
+			<DataType>Averaged</DataType>
+			<Speed>95</Speed>
+			<TravelTime>140</TravelTime>
+			<TravelTimeFloat>140.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616418</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>79</TravelTime>
+			<TravelTimeFloat>79.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456482</ID>
+			<DataType>Averaged</DataType>
+			<Speed>95</Speed>
+			<TravelTime>36</TravelTime>
+			<TravelTimeFloat>36.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:19:54-05:00">
+			<ID>30</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>140</TravelTime>
+			<TravelTimeFloat>140.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484229</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>141</TravelTime>
+			<TravelTimeFloat>141.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616445</ID>
+			<DataType>Averaged</DataType>
+			<Speed>34</Speed>
+			<TravelTime>135</TravelTime>
+			<TravelTimeFloat>135.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575249</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>40</TravelTime>
+			<TravelTimeFloat>40.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616229</ID>
+			<DataType>Averaged</DataType>
+			<Speed>68</Speed>
+			<TravelTime>97</TravelTime>
+			<TravelTimeFloat>97.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484186</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>91</TravelTime>
+			<TravelTimeFloat>91.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616422</ID>
+			<DataType>Averaged</DataType>
+			<Speed>14</Speed>
+			<TravelTime>419</TravelTime>
+			<TravelTimeFloat>419.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616239</ID>
+			<DataType>Averaged</DataType>
+			<Speed>29</Speed>
+			<TravelTime>296</TravelTime>
+			<TravelTimeFloat>296.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616440</ID>
+			<DataType>Averaged</DataType>
+			<Speed>77</Speed>
+			<TravelTime>63</TravelTime>
+			<TravelTimeFloat>63.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362372</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>169</TravelTime>
+			<TravelTimeFloat>169.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484206</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>100</TravelTime>
+			<TravelTimeFloat>100.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362377</ID>
+			<DataType>Averaged</DataType>
+			<Speed>60</Speed>
+			<TravelTime>197</TravelTime>
+			<TravelTimeFloat>197.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362266</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>261</TravelTime>
+			<TravelTimeFloat>261.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362329</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>188</TravelTime>
+			<TravelTimeFloat>188.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575382</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>830</TravelTime>
+			<TravelTimeFloat>830.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362348</ID>
+			<DataType>Averaged</DataType>
+			<Speed>47</Speed>
+			<TravelTime>262</TravelTime>
+			<TravelTimeFloat>262.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419052</ID>
+			<DataType>Averaged</DataType>
+			<Speed>57</Speed>
+			<TravelTime>120</TravelTime>
+			<TravelTimeFloat>120.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:22-05:00">
+			<ID>90001718</ID>
+			<DataType>Averaged</DataType>
+			<Speed>17</Speed>
+			<TravelTime>118</TravelTime>
+			<TravelTimeFloat>118.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:17:45-05:00">
+			<ID>90005761</ID>
+			<DataType>Averaged</DataType>
+			<Speed>15</Speed>
+			<TravelTime>67</TravelTime>
+			<TravelTimeFloat>67.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361727</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>96</TravelTime>
+			<TravelTimeFloat>96.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616429</ID>
+			<DataType>Averaged</DataType>
+			<Speed>27</Speed>
+			<TravelTime>435</TravelTime>
+			<TravelTimeFloat>435.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362301</ID>
+			<DataType>Averaged</DataType>
+			<Speed>101</Speed>
+			<TravelTime>274</TravelTime>
+			<TravelTimeFloat>274.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484224</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>180</TravelTime>
+			<TravelTimeFloat>180.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:48-05:00">
+			<ID>4575424</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>141</TravelTime>
+			<TravelTimeFloat>141.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575394</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>141</TravelTime>
+			<TravelTimeFloat>141.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616426</ID>
+			<DataType>Averaged</DataType>
+			<Speed>87</Speed>
+			<TravelTime>131</TravelTime>
+			<TravelTimeFloat>131.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329472</ID>
+			<DataType>Averaged</DataType>
+			<Speed>21</Speed>
+			<TravelTime>425</TravelTime>
+			<TravelTimeFloat>425.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616354</ID>
+			<DataType>Averaged</DataType>
+			<Speed>84</Speed>
+			<TravelTime>175</TravelTime>
+			<TravelTimeFloat>175.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419030</ID>
+			<DataType>Averaged</DataType>
+			<Speed>38</Speed>
+			<TravelTime>120</TravelTime>
+			<TravelTimeFloat>120.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362331</ID>
+			<DataType>Averaged</DataType>
+			<Speed>43</Speed>
+			<TravelTime>301</TravelTime>
+			<TravelTimeFloat>301.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620345</ID>
+			<DataType>Averaged</DataType>
+			<Speed>37</Speed>
+			<TravelTime>107</TravelTime>
+			<TravelTimeFloat>107.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620330</ID>
+			<DataType>Averaged</DataType>
+			<Speed>45</Speed>
+			<TravelTime>157</TravelTime>
+			<TravelTimeFloat>157.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419041</ID>
+			<DataType>Averaged</DataType>
+			<Speed>90</Speed>
+			<TravelTime>41</TravelTime>
+			<TravelTimeFloat>41.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362278</ID>
+			<DataType>Averaged</DataType>
+			<Speed>89</Speed>
+			<TravelTime>309</TravelTime>
+			<TravelTimeFloat>309.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362350</ID>
+			<DataType>Averaged</DataType>
+			<Speed>35</Speed>
+			<TravelTime>404</TravelTime>
+			<TravelTimeFloat>404.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616443</ID>
+			<DataType>Averaged</DataType>
+			<Speed>16</Speed>
+			<TravelTime>383</TravelTime>
+			<TravelTimeFloat>383.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616405</ID>
+			<DataType>Averaged</DataType>
+			<Speed>34</Speed>
+			<TravelTime>315</TravelTime>
+			<TravelTimeFloat>315.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616299</ID>
+			<DataType>Averaged</DataType>
+			<Speed>79</Speed>
+			<TravelTime>109</TravelTime>
+			<TravelTimeFloat>109.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575383</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>192</TravelTime>
+			<TravelTimeFloat>192.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329494</ID>
+			<DataType>Averaged</DataType>
+			<Speed>77</Speed>
+			<TravelTime>134</TravelTime>
+			<TravelTimeFloat>134.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:16:58-05:00">
+			<ID>90002103</ID>
+			<DataType>Averaged</DataType>
+			<Speed>14</Speed>
+			<TravelTime>308</TravelTime>
+			<TravelTimeFloat>308.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419070</ID>
+			<DataType>Averaged</DataType>
+			<Speed>86</Speed>
+			<TravelTime>96</TravelTime>
+			<TravelTimeFloat>96.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362267</ID>
+			<DataType>Averaged</DataType>
+			<Speed>101</Speed>
+			<TravelTime>170</TravelTime>
+			<TravelTimeFloat>170.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575325</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>388</TravelTime>
+			<TravelTimeFloat>388.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329524</ID>
+			<DataType>Averaged</DataType>
+			<Speed>19</Speed>
+			<TravelTime>464</TravelTime>
+			<TravelTimeFloat>464.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419017</ID>
+			<DataType>Averaged</DataType>
+			<Speed>98</Speed>
+			<TravelTime>32</TravelTime>
+			<TravelTimeFloat>32.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:19-05:00">
+			<ID>5361781</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>76</TravelTime>
+			<TravelTimeFloat>76.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361700</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>219</TravelTime>
+			<TravelTimeFloat>219.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484109</ID>
+			<DataType>Averaged</DataType>
+			<Speed>76</Speed>
+			<TravelTime>122</TravelTime>
+			<TravelTimeFloat>122.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616300</ID>
+			<DataType>Averaged</DataType>
+			<Speed>76</Speed>
+			<TravelTime>114</TravelTime>
+			<TravelTimeFloat>114.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456494</ID>
+			<DataType>Averaged</DataType>
+			<Speed>19</Speed>
+			<TravelTime>424</TravelTime>
+			<TravelTimeFloat>424.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484148</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>415</TravelTime>
+			<TravelTimeFloat>415.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329530</ID>
+			<DataType>Averaged</DataType>
+			<Speed>34</Speed>
+			<TravelTime>33</TravelTime>
+			<TravelTimeFloat>33.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616436</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>92</TravelTime>
+			<TravelTimeFloat>92.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616363</ID>
+			<DataType>Averaged</DataType>
+			<Speed>19</Speed>
+			<TravelTime>822</TravelTime>
+			<TravelTimeFloat>822.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>5107715</ID>
+			<DataType>Averaged</DataType>
+			<Speed>16</Speed>
+			<TravelTime>509</TravelTime>
+			<TravelTimeFloat>509.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:15:13-05:00">
+			<ID>90005458</ID>
+			<DataType>Averaged</DataType>
+			<Speed>12</Speed>
+			<TravelTime>80</TravelTime>
+			<TravelTimeFloat>80.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616283</ID>
+			<DataType>Averaged</DataType>
+			<Speed>16</Speed>
+			<TravelTime>703</TravelTime>
+			<TravelTimeFloat>703.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620318</ID>
+			<DataType>Averaged</DataType>
+			<Speed>61</Speed>
+			<TravelTime>63</TravelTime>
+			<TravelTimeFloat>63.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4763660</ID>
+			<DataType>Averaged</DataType>
+			<Speed>72</Speed>
+			<TravelTime>180</TravelTime>
+			<TravelTimeFloat>180.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620308</ID>
+			<DataType>Averaged</DataType>
+			<Speed>32</Speed>
+			<TravelTime>292</TravelTime>
+			<TravelTimeFloat>292.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616337</ID>
+			<DataType>Averaged</DataType>
+			<Speed>8</Speed>
+			<TravelTime>1074</TravelTime>
+			<TravelTimeFloat>1074.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:14:35-05:00">
+			<ID>90003949</ID>
+			<DataType>Averaged</DataType>
+			<Speed>10</Speed>
+			<TravelTime>212</TravelTime>
+			<TravelTimeFloat>212.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616285</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>247</TravelTime>
+			<TravelTimeFloat>247.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616415</ID>
+			<DataType>Averaged</DataType>
+			<Speed>47</Speed>
+			<TravelTime>70</TravelTime>
+			<TravelTimeFloat>70.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616255</ID>
+			<DataType>Averaged</DataType>
+			<Speed>5</Speed>
+			<TravelTime>1502</TravelTime>
+			<TravelTimeFloat>1502.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361672</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>173</TravelTime>
+			<TravelTimeFloat>173.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456527</ID>
+			<DataType>Averaged</DataType>
+			<Speed>60</Speed>
+			<TravelTime>37</TravelTime>
+			<TravelTimeFloat>37.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:13:16-05:00">
+			<ID>90001213</ID>
+			<DataType>Averaged</DataType>
+			<Speed>12</Speed>
+			<TravelTime>195</TravelTime>
+			<TravelTimeFloat>195.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484157</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>55</TravelTime>
+			<TravelTimeFloat>55.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:19:03-05:00">
+			<ID>90004642</ID>
+			<DataType>Averaged</DataType>
+			<Speed>14</Speed>
+			<TravelTime>142</TravelTime>
+			<TravelTimeFloat>142.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616251</ID>
+			<DataType>Averaged</DataType>
+			<Speed>18</Speed>
+			<TravelTime>560</TravelTime>
+			<TravelTimeFloat>560.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329497</ID>
+			<DataType>Averaged</DataType>
+			<Speed>64</Speed>
+			<TravelTime>162</TravelTime>
+			<TravelTimeFloat>162.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620347</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>323</TravelTime>
+			<TravelTimeFloat>323.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620293</ID>
+			<DataType>Averaged</DataType>
+			<Speed>23</Speed>
+			<TravelTime>424</TravelTime>
+			<TravelTimeFloat>424.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4751363</ID>
+			<DataType>Averaged</DataType>
+			<Speed>72</Speed>
+			<TravelTime>417</TravelTime>
+			<TravelTimeFloat>417.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:14:44-05:00">
+			<ID>90000603</ID>
+			<DataType>Averaged</DataType>
+			<Speed>8</Speed>
+			<TravelTime>64</TravelTime>
+			<TravelTimeFloat>64.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616297</ID>
+			<DataType>Averaged</DataType>
+			<Speed>13</Speed>
+			<TravelTime>1018</TravelTime>
+			<TravelTimeFloat>1018.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575415</ID>
+			<DataType>Averaged</DataType>
+			<Speed>117</Speed>
+			<TravelTime>240</TravelTime>
+			<TravelTimeFloat>240.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361711</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>862</TravelTime>
+			<TravelTimeFloat>862.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456505</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>176</TravelTime>
+			<TravelTimeFloat>176.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362319</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>226</TravelTime>
+			<TravelTimeFloat>226.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:00-05:00">
+			<ID>4362316</ID>
+			<DataType>Averaged</DataType>
+			<Speed>39</Speed>
+			<TravelTime>374</TravelTime>
+			<TravelTimeFloat>374.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419060</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>66</TravelTime>
+			<TravelTimeFloat>66.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362270</ID>
+			<DataType>Averaged</DataType>
+			<Speed>51</Speed>
+			<TravelTime>275</TravelTime>
+			<TravelTimeFloat>275.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:31-05:00">
+			<ID>4616450</ID>
+			<DataType>Averaged</DataType>
+			<Speed>66</Speed>
+			<TravelTime>252</TravelTime>
+			<TravelTimeFloat>252.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575248</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>55</TravelTime>
+			<TravelTimeFloat>55.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419045</ID>
+			<DataType>Averaged</DataType>
+			<Speed>26</Speed>
+			<TravelTime>216</TravelTime>
+			<TravelTimeFloat>216.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362356</ID>
+			<DataType>Averaged</DataType>
+			<Speed>37</Speed>
+			<TravelTime>223</TravelTime>
+			<TravelTimeFloat>223.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616342</ID>
+			<DataType>Averaged</DataType>
+			<Speed>47</Speed>
+			<TravelTime>88</TravelTime>
+			<TravelTimeFloat>88.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419037</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>88</TravelTime>
+			<TravelTimeFloat>88.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456525</ID>
+			<DataType>Averaged</DataType>
+			<Speed>79</Speed>
+			<TravelTime>29</TravelTime>
+			<TravelTimeFloat>29.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419021</ID>
+			<DataType>Averaged</DataType>
+			<Speed>74</Speed>
+			<TravelTime>44</TravelTime>
+			<TravelTimeFloat>44.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:15:04-05:00">
+			<ID>90001417</ID>
+			<DataType>Averaged</DataType>
+			<Speed>1</Speed>
+			<TravelTime>880</TravelTime>
+			<TravelTimeFloat>880.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616403</ID>
+			<DataType>Averaged</DataType>
+			<Speed>29</Speed>
+			<TravelTime>772</TravelTime>
+			<TravelTimeFloat>772.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575397</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>53</TravelTime>
+			<TravelTimeFloat>53.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484202</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>56</TravelTime>
+			<TravelTimeFloat>56.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575411</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>121</TravelTime>
+			<TravelTimeFloat>121.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616380</ID>
+			<DataType>Averaged</DataType>
+			<Speed>21</Speed>
+			<TravelTime>749</TravelTime>
+			<TravelTimeFloat>749.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456515</ID>
+			<DataType>Averaged</DataType>
+			<Speed>82</Speed>
+			<TravelTime>75</TravelTime>
+			<TravelTimeFloat>75.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:17:52-05:00">
+			<ID>90001819</ID>
+			<DataType>Averaged</DataType>
+			<Speed>15</Speed>
+			<TravelTime>152</TravelTime>
+			<TravelTimeFloat>152.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616194</ID>
+			<DataType>Averaged</DataType>
+			<Speed>39</Speed>
+			<TravelTime>67</TravelTime>
+			<TravelTimeFloat>67.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575324</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>290</TravelTime>
+			<TravelTimeFloat>290.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:19:26-05:00">
+			<ID>90001759</ID>
+			<DataType>Averaged</DataType>
+			<Speed>8</Speed>
+			<TravelTime>123</TravelTime>
+			<TravelTimeFloat>123.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616305</ID>
+			<DataType>Averaged</DataType>
+			<Speed>82</Speed>
+			<TravelTime>49</TravelTime>
+			<TravelTimeFloat>49.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4763655</ID>
+			<DataType>Averaged</DataType>
+			<Speed>69</Speed>
+			<TravelTime>52</TravelTime>
+			<TravelTimeFloat>52.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620352</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>179</TravelTime>
+			<TravelTimeFloat>179.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616232</ID>
+			<DataType>Averaged</DataType>
+			<Speed>10</Speed>
+			<TravelTime>1091</TravelTime>
+			<TravelTimeFloat>1091.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329490</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>55</TravelTime>
+			<TravelTimeFloat>55.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362254</ID>
+			<DataType>Averaged</DataType>
+			<Speed>98</Speed>
+			<TravelTime>447</TravelTime>
+			<TravelTimeFloat>447.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:14-05:00">
+			<ID>90005854</ID>
+			<DataType>Averaged</DataType>
+			<Speed>5</Speed>
+			<TravelTime>196</TravelTime>
+			<TravelTimeFloat>196.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575365</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>337</TravelTime>
+			<TravelTimeFloat>337.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362354</ID>
+			<DataType>Averaged</DataType>
+			<Speed>51</Speed>
+			<TravelTime>248</TravelTime>
+			<TravelTimeFloat>248.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616312</ID>
+			<DataType>Averaged</DataType>
+			<Speed>74</Speed>
+			<TravelTime>139</TravelTime>
+			<TravelTimeFloat>139.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362369</ID>
+			<DataType>Averaged</DataType>
+			<Speed>51</Speed>
+			<TravelTime>343</TravelTime>
+			<TravelTimeFloat>343.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575421</ID>
+			<DataType>Averaged</DataType>
+			<Speed>117</Speed>
+			<TravelTime>101</TravelTime>
+			<TravelTimeFloat>101.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:48-05:00">
+			<ID>4575428</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>95</TravelTime>
+			<TravelTimeFloat>95.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329514</ID>
+			<DataType>Averaged</DataType>
+			<Speed>26</Speed>
+			<TravelTime>279</TravelTime>
+			<TravelTimeFloat>279.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575376</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>840</TravelTime>
+			<TravelTimeFloat>840.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:22:47-05:00">
+			<ID>90000306</ID>
+			<DataType>Averaged</DataType>
+			<Speed>4</Speed>
+			<TravelTime>129</TravelTime>
+			<TravelTimeFloat>129.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:35-05:00">
+			<ID>42</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>251</TravelTime>
+			<TravelTimeFloat>251.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484111</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>143</TravelTime>
+			<TravelTimeFloat>143.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575308</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>1314</TravelTime>
+			<TravelTimeFloat>1314.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616425</ID>
+			<DataType>Averaged</DataType>
+			<Speed>21</Speed>
+			<TravelTime>555</TravelTime>
+			<TravelTimeFloat>555.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616207</ID>
+			<DataType>Averaged</DataType>
+			<Speed>43</Speed>
+			<TravelTime>240</TravelTime>
+			<TravelTimeFloat>240.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616211</ID>
+			<DataType>Averaged</DataType>
+			<Speed>48</Speed>
+			<TravelTime>95</TravelTime>
+			<TravelTimeFloat>95.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:19:12-05:00">
+			<ID>59</ID>
+			<DataType>Averaged</DataType>
+			<Speed>117</Speed>
+			<TravelTime>113</TravelTime>
+			<TravelTimeFloat>113.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:12:38-05:00">
+			<ID>90001619</ID>
+			<DataType>Averaged</DataType>
+			<Speed>4</Speed>
+			<TravelTime>305</TravelTime>
+			<TravelTimeFloat>305.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484208</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>18</TravelTime>
+			<TravelTimeFloat>18.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575391</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>157</TravelTime>
+			<TravelTimeFloat>157.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616271</ID>
+			<DataType>Averaged</DataType>
+			<Speed>10</Speed>
+			<TravelTime>2364</TravelTime>
+			<TravelTimeFloat>2364.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575420</ID>
+			<DataType>Averaged</DataType>
+			<Speed>117</Speed>
+			<TravelTime>370</TravelTime>
+			<TravelTimeFloat>370.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:22:35-05:00">
+			<ID>90001303</ID>
+			<DataType>Averaged</DataType>
+			<Speed>3</Speed>
+			<TravelTime>320</TravelTime>
+			<TravelTimeFloat>320.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362351</ID>
+			<DataType>Averaged</DataType>
+			<Speed>32</Speed>
+			<TravelTime>312</TravelTime>
+			<TravelTimeFloat>312.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484110</ID>
+			<DataType>Averaged</DataType>
+			<Speed>90</Speed>
+			<TravelTime>237</TravelTime>
+			<TravelTimeFloat>237.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616328</ID>
+			<DataType>Averaged</DataType>
+			<Speed>13</Speed>
+			<TravelTime>1155</TravelTime>
+			<TravelTimeFloat>1155.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:17:42-05:00">
+			<ID>90001101</ID>
+			<DataType>Averaged</DataType>
+			<Speed>12</Speed>
+			<TravelTime>92</TravelTime>
+			<TravelTimeFloat>92.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:48-05:00">
+			<ID>4575431</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>123</TravelTime>
+			<TravelTimeFloat>123.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575284</ID>
+			<DataType>Averaged</DataType>
+			<Speed>87</Speed>
+			<TravelTime>169</TravelTime>
+			<TravelTimeFloat>169.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419049</ID>
+			<DataType>Averaged</DataType>
+			<Speed>68</Speed>
+			<TravelTime>22</TravelTime>
+			<TravelTimeFloat>22.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:15:52-05:00">
+			<ID>90005652</ID>
+			<DataType>Averaged</DataType>
+			<Speed>4</Speed>
+			<TravelTime>151</TravelTime>
+			<TravelTimeFloat>151.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:14:01-05:00">
+			<ID>90003759</ID>
+			<DataType>Averaged</DataType>
+			<Speed>9</Speed>
+			<TravelTime>228</TravelTime>
+			<TravelTimeFloat>228.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484196</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>58</TravelTime>
+			<TravelTimeFloat>58.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361732</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>96</TravelTime>
+			<TravelTimeFloat>96.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616202</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>87</TravelTime>
+			<TravelTimeFloat>87.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4620319</ID>
+			<DataType>Averaged</DataType>
+			<Speed>48</Speed>
+			<TravelTime>393</TravelTime>
+			<TravelTimeFloat>393.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575234</ID>
+			<DataType>Averaged</DataType>
+			<Speed>95</Speed>
+			<TravelTime>141</TravelTime>
+			<TravelTimeFloat>141.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456524</ID>
+			<DataType>Averaged</DataType>
+			<Speed>66</Speed>
+			<TravelTime>153</TravelTime>
+			<TravelTimeFloat>153.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620299</ID>
+			<DataType>Averaged</DataType>
+			<Speed>61</Speed>
+			<TravelTime>129</TravelTime>
+			<TravelTimeFloat>129.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575288</ID>
+			<DataType>Averaged</DataType>
+			<Speed>79</Speed>
+			<TravelTime>71</TravelTime>
+			<TravelTimeFloat>71.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362302</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>261</TravelTime>
+			<TravelTimeFloat>261.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:08-05:00">
+			<ID>6</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>122</TravelTime>
+			<TravelTimeFloat>122.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616325</ID>
+			<DataType>Averaged</DataType>
+			<Speed>42</Speed>
+			<TravelTime>125</TravelTime>
+			<TravelTimeFloat>125.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575386</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>347</TravelTime>
+			<TravelTimeFloat>347.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419035</ID>
+			<DataType>Averaged</DataType>
+			<Speed>89</Speed>
+			<TravelTime>72</TravelTime>
+			<TravelTimeFloat>72.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575374</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>461</TravelTime>
+			<TravelTimeFloat>461.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419018</ID>
+			<DataType>Averaged</DataType>
+			<Speed>130</Speed>
+			<TravelTime>4</TravelTime>
+			<TravelTimeFloat>4.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419047</ID>
+			<DataType>Averaged</DataType>
+			<Speed>24</Speed>
+			<TravelTime>358</TravelTime>
+			<TravelTimeFloat>358.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419055</ID>
+			<DataType>Averaged</DataType>
+			<Speed>107</Speed>
+			<TravelTime>13</TravelTime>
+			<TravelTimeFloat>13.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:02-05:00">
+			<ID>29</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>185</TravelTime>
+			<TravelTimeFloat>185.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616389</ID>
+			<DataType>Averaged</DataType>
+			<Speed>74</Speed>
+			<TravelTime>136</TravelTime>
+			<TravelTimeFloat>136.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616259</ID>
+			<DataType>Averaged</DataType>
+			<Speed>16</Speed>
+			<TravelTime>867</TravelTime>
+			<TravelTimeFloat>867.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620300</ID>
+			<DataType>Averaged</DataType>
+			<Speed>61</Speed>
+			<TravelTime>134</TravelTime>
+			<TravelTimeFloat>134.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616349</ID>
+			<DataType>Averaged</DataType>
+			<Speed>66</Speed>
+			<TravelTime>96</TravelTime>
+			<TravelTimeFloat>96.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361695</ID>
+			<DataType>Averaged</DataType>
+			<Speed>203</Speed>
+			<TravelTime>81</TravelTime>
+			<TravelTimeFloat>81.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456531</ID>
+			<DataType>Averaged</DataType>
+			<Speed>51</Speed>
+			<TravelTime>185</TravelTime>
+			<TravelTimeFloat>185.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616368</ID>
+			<DataType>Averaged</DataType>
+			<Speed>42</Speed>
+			<TravelTime>203</TravelTime>
+			<TravelTimeFloat>203.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575330</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>619</TravelTime>
+			<TravelTimeFloat>619.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575416</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>94</TravelTime>
+			<TravelTimeFloat>94.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361696</ID>
+			<DataType>Averaged</DataType>
+			<Speed>32</Speed>
+			<TravelTime>477</TravelTime>
+			<TravelTimeFloat>477.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484216</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>135</TravelTime>
+			<TravelTimeFloat>135.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575387</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>684</TravelTime>
+			<TravelTimeFloat>684.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484140</ID>
+			<DataType>Averaged</DataType>
+			<Speed>77</Speed>
+			<TravelTime>37</TravelTime>
+			<TravelTimeFloat>37.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362337</ID>
+			<DataType>Averaged</DataType>
+			<Speed>98</Speed>
+			<TravelTime>135</TravelTime>
+			<TravelTimeFloat>135.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:19-05:00">
+			<ID>5361782</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>127</TravelTime>
+			<TravelTimeFloat>127.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575319</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>422</TravelTime>
+			<TravelTimeFloat>422.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361735</ID>
+			<DataType>Averaged</DataType>
+			<Speed>53</Speed>
+			<TravelTime>247</TravelTime>
+			<TravelTimeFloat>247.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616402</ID>
+			<DataType>Averaged</DataType>
+			<Speed>26</Speed>
+			<TravelTime>853</TravelTime>
+			<TravelTimeFloat>853.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362392</ID>
+			<DataType>Averaged</DataType>
+			<Speed>5</Speed>
+			<TravelTime>1265</TravelTime>
+			<TravelTimeFloat>1265.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:29-05:00">
+			<ID>90005546</ID>
+			<DataType>Averaged</DataType>
+			<Speed>33</Speed>
+			<TravelTime>70</TravelTime>
+			<TravelTimeFloat>70.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456478</ID>
+			<DataType>Averaged</DataType>
+			<Speed>60</Speed>
+			<TravelTime>193</TravelTime>
+			<TravelTimeFloat>193.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484181</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>116</TravelTime>
+			<TravelTimeFloat>116.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:01-05:00">
+			<ID>90006157</ID>
+			<DataType>Averaged</DataType>
+			<Speed>14</Speed>
+			<TravelTime>70</TravelTime>
+			<TravelTimeFloat>70.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362312</ID>
+			<DataType>Averaged</DataType>
+			<Speed>68</Speed>
+			<TravelTime>583</TravelTime>
+			<TravelTimeFloat>583.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484195</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>85</TravelTime>
+			<TravelTimeFloat>85.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362371</ID>
+			<DataType>Averaged</DataType>
+			<Speed>69</Speed>
+			<TravelTime>320</TravelTime>
+			<TravelTimeFloat>320.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616353</ID>
+			<DataType>Averaged</DataType>
+			<Speed>82</Speed>
+			<TravelTime>154</TravelTime>
+			<TravelTimeFloat>154.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575417</ID>
+			<DataType>Averaged</DataType>
+			<Speed>124</Speed>
+			<TravelTime>88</TravelTime>
+			<TravelTimeFloat>88.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4349962</ID>
+			<DataType>Averaged</DataType>
+			<Speed>47</Speed>
+			<TravelTime>37</TravelTime>
+			<TravelTimeFloat>37.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484207</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>99</TravelTime>
+			<TravelTimeFloat>99.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616397</ID>
+			<DataType>Averaged</DataType>
+			<Speed>43</Speed>
+			<TravelTime>215</TravelTime>
+			<TravelTimeFloat>215.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4763650</ID>
+			<DataType>Averaged</DataType>
+			<Speed>72</Speed>
+			<TravelTime>54</TravelTime>
+			<TravelTimeFloat>54.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:19:08-05:00">
+			<ID>16</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>146</TravelTime>
+			<TravelTimeFloat>146.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:44-05:00">
+			<ID>54</ID>
+			<DataType>Averaged</DataType>
+			<Speed>105</Speed>
+			<TravelTime>160</TravelTime>
+			<TravelTimeFloat>160.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456477</ID>
+			<DataType>Averaged</DataType>
+			<Speed>60</Speed>
+			<TravelTime>194</TravelTime>
+			<TravelTimeFloat>194.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484162</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>318</TravelTime>
+			<TravelTimeFloat>318.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575358</ID>
+			<DataType>Averaged</DataType>
+			<Speed>117</Speed>
+			<TravelTime>196</TravelTime>
+			<TravelTimeFloat>196.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361746</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>145</TravelTime>
+			<TravelTimeFloat>145.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616332</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>177</TravelTime>
+			<TravelTimeFloat>177.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361704</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>203</TravelTime>
+			<TravelTimeFloat>203.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620305</ID>
+			<DataType>Averaged</DataType>
+			<Speed>47</Speed>
+			<TravelTime>168</TravelTime>
+			<TravelTimeFloat>168.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456497</ID>
+			<DataType>Averaged</DataType>
+			<Speed>61</Speed>
+			<TravelTime>123</TravelTime>
+			<TravelTimeFloat>123.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:12-05:00">
+			<ID>90001114</ID>
+			<DataType>Averaged</DataType>
+			<Speed>3</Speed>
+			<TravelTime>219</TravelTime>
+			<TravelTimeFloat>219.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616333</ID>
+			<DataType>Averaged</DataType>
+			<Speed>68</Speed>
+			<TravelTime>244</TravelTime>
+			<TravelTimeFloat>244.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:18-05:00">
+			<ID>5361697</ID>
+			<DataType>Averaged</DataType>
+			<Speed>100</Speed>
+			<TravelTime>203</TravelTime>
+			<TravelTimeFloat>203.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484187</ID>
+			<DataType>Averaged</DataType>
+			<Speed>101</Speed>
+			<TravelTime>90</TravelTime>
+			<TravelTimeFloat>90.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362295</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>195</TravelTime>
+			<TravelTimeFloat>195.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:48-05:00">
+			<ID>4575423</ID>
+			<DataType>Averaged</DataType>
+			<Speed>106</Speed>
+			<TravelTime>151</TravelTime>
+			<TravelTimeFloat>151.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>4751365</ID>
+			<DataType>Averaged</DataType>
+			<Speed>31</Speed>
+			<TravelTime>91</TravelTime>
+			<TravelTimeFloat>91.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575399</ID>
+			<DataType>Averaged</DataType>
+			<Speed>90</Speed>
+			<TravelTime>78</TravelTime>
+			<TravelTimeFloat>78.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484158</ID>
+			<DataType>Averaged</DataType>
+			<Speed>79</Speed>
+			<TravelTime>130</TravelTime>
+			<TravelTimeFloat>130.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484142</ID>
+			<DataType>Averaged</DataType>
+			<Speed>85</Speed>
+			<TravelTime>237</TravelTime>
+			<TravelTimeFloat>237.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:20:46-05:00">
+			<ID>4</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>206</TravelTime>
+			<TravelTimeFloat>206.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616387</ID>
+			<DataType>Averaged</DataType>
+			<Speed>82</Speed>
+			<TravelTime>142</TravelTime>
+			<TravelTimeFloat>142.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575277</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>114</TravelTime>
+			<TravelTimeFloat>114.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484193</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>55</TravelTime>
+			<TravelTimeFloat>55.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362338</ID>
+			<DataType>Averaged</DataType>
+			<Speed>95</Speed>
+			<TravelTime>288</TravelTime>
+			<TravelTimeFloat>288.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616441</ID>
+			<DataType>Averaged</DataType>
+			<Speed>77</Speed>
+			<TravelTime>69</TravelTime>
+			<TravelTimeFloat>69.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616241</ID>
+			<DataType>Averaged</DataType>
+			<Speed>51</Speed>
+			<TravelTime>164</TravelTime>
+			<TravelTimeFloat>164.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:30-05:00">
+			<ID>4616423</ID>
+			<DataType>Averaged</DataType>
+			<Speed>14</Speed>
+			<TravelTime>750</TravelTime>
+			<TravelTimeFloat>750.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419022</ID>
+			<DataType>Averaged</DataType>
+			<Speed>53</Speed>
+			<TravelTime>130</TravelTime>
+			<TravelTimeFloat>130.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:19-05:00">
+			<ID>5361776</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>76</TravelTime>
+			<TravelTimeFloat>76.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4329515</ID>
+			<DataType>Averaged</DataType>
+			<Speed>27</Speed>
+			<TravelTime>273</TravelTime>
+			<TravelTimeFloat>273.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616198</ID>
+			<DataType>Averaged</DataType>
+			<Speed>95</Speed>
+			<TravelTime>103</TravelTime>
+			<TravelTimeFloat>103.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575246</ID>
+			<DataType>Averaged</DataType>
+			<Speed>101</Speed>
+			<TravelTime>92</TravelTime>
+			<TravelTimeFloat>92.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484215</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>111</TravelTime>
+			<TravelTimeFloat>111.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456516</ID>
+			<DataType>Averaged</DataType>
+			<Speed>84</Speed>
+			<TravelTime>291</TravelTime>
+			<TravelTimeFloat>291.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575373</ID>
+			<DataType>Averaged</DataType>
+			<Speed>117</Speed>
+			<TravelTime>650</TravelTime>
+			<TravelTimeFloat>650.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362277</ID>
+			<DataType>Averaged</DataType>
+			<Speed>85</Speed>
+			<TravelTime>178</TravelTime>
+			<TravelTimeFloat>178.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575364</ID>
+			<DataType>Averaged</DataType>
+			<Speed>111</Speed>
+			<TravelTime>678</TravelTime>
+			<TravelTimeFloat>678.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:15-05:00">
+			<ID>58</ID>
+			<DataType>Averaged</DataType>
+			<Speed>109</Speed>
+			<TravelTime>121</TravelTime>
+			<TravelTimeFloat>121.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:37-05:00">
+			<ID>5107718</ID>
+			<DataType>Averaged</DataType>
+			<Speed>76</Speed>
+			<TravelTime>52</TravelTime>
+			<TravelTimeFloat>52.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:19:52-05:00">
+			<ID>1</ID>
+			<DataType>Averaged</DataType>
+			<Speed>117</Speed>
+			<TravelTime>147</TravelTime>
+			<TravelTimeFloat>147.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484197</ID>
+			<DataType>Averaged</DataType>
+			<Speed>97</Speed>
+			<TravelTime>77</TravelTime>
+			<TravelTimeFloat>77.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:36-05:00">
+			<ID>4620294</ID>
+			<DataType>Averaged</DataType>
+			<Speed>61</Speed>
+			<TravelTime>168</TravelTime>
+			<TravelTimeFloat>168.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575371</ID>
+			<DataType>Averaged</DataType>
+			<Speed>69</Speed>
+			<TravelTime>801</TravelTime>
+			<TravelTimeFloat>801.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:28-05:00">
+			<ID>4616260</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>128</TravelTime>
+			<TravelTimeFloat>128.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:00-05:00">
+			<ID>4362325</ID>
+			<DataType>Averaged</DataType>
+			<Speed>103</Speed>
+			<TravelTime>249</TravelTime>
+			<TravelTimeFloat>249.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:41-05:00">
+			<ID>4456481</ID>
+			<DataType>Averaged</DataType>
+			<Speed>63</Speed>
+			<TravelTime>193</TravelTime>
+			<TravelTimeFloat>193.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419048</ID>
+			<DataType>Averaged</DataType>
+			<Speed>42</Speed>
+			<TravelTime>48</TravelTime>
+			<TravelTimeFloat>48.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:46-05:00">
+			<ID>4575418</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>186</TravelTime>
+			<TravelTimeFloat>186.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:19-05:00">
+			<ID>5361785</ID>
+			<DataType>Averaged</DataType>
+			<Speed>79</Speed>
+			<TravelTime>166</TravelTime>
+			<TravelTimeFloat>166.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484192</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>113</TravelTime>
+			<TravelTimeFloat>113.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484220</ID>
+			<DataType>Averaged</DataType>
+			<Speed>108</Speed>
+			<TravelTime>48</TravelTime>
+			<TravelTimeFloat>48.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:42-05:00">
+			<ID>20484147</ID>
+			<DataType>Averaged</DataType>
+			<Speed>116</Speed>
+			<TravelTime>331</TravelTime>
+			<TravelTimeFloat>331.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419069</ID>
+			<DataType>Averaged</DataType>
+			<Speed>102</Speed>
+			<TravelTime>21</TravelTime>
+			<TravelTimeFloat>21.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:17:18-05:00">
+			<ID>90003527</ID>
+			<DataType>Averaged</DataType>
+			<Speed>28</Speed>
+			<TravelTime>688</TravelTime>
+			<TravelTimeFloat>688.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362274</ID>
+			<DataType>Averaged</DataType>
+			<Speed>48</Speed>
+			<TravelTime>388</TravelTime>
+			<TravelTimeFloat>388.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:24:45-05:00">
+			<ID>4575317</ID>
+			<DataType>Averaged</DataType>
+			<Speed>114</Speed>
+			<TravelTime>602</TravelTime>
+			<TravelTimeFloat>602.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:23:59-05:00">
+			<ID>5419042</ID>
+			<DataType>Averaged</DataType>
+			<Speed>93</Speed>
+			<TravelTime>95</TravelTime>
+			<TravelTimeFloat>95.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:25:59-05:00">
+			<ID>4362306</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>208</TravelTime>
+			<TravelTimeFloat>208.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:43-05:00">
+			<ID>20484213</ID>
+			<DataType>Averaged</DataType>
+			<Speed>80</Speed>
+			<TravelTime>56</TravelTime>
+			<TravelTimeFloat>56.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:26:29-05:00">
+			<ID>4616364</ID>
+			<DataType>Averaged</DataType>
+			<Speed>92</Speed>
+			<TravelTime>88</TravelTime>
+			<TravelTimeFloat>88.0</TravelTimeFloat>
+		</linkCondition>
+		<linkCondition asOf="2015-03-06T15:21:06-05:00">
+			<ID>49</ID>
+			<DataType>Averaged</DataType>
+			<Speed>113</Speed>
+			<TravelTime>118</TravelTime>
+			<TravelTimeFloat>118.0</TravelTimeFloat>
+		</linkCondition>
+  </linkConditions>
+</dataResponse>
+</return>
+</ns:getDataResponse>
